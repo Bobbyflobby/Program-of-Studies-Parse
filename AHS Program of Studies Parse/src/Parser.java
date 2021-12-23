@@ -2,6 +2,7 @@
 Walter Vincent
 copy and paste Program of Studies into Input.txt
 only works if course codes end in a "Z"
+Started Dec 2021
  */
 
 import java.io.File;
@@ -16,6 +17,7 @@ public class Parser {
     File input;
     Boolean debugOn;
     Map<String, String> courseKeys = new HashMap<>();
+    ArrayList<ArrayList<String>> classes = new ArrayList<>();
 
     public Parser(){
         input = new File("src/Input.txt");
@@ -45,15 +47,27 @@ public class Parser {
     public void run(){
         try {
             Scanner inputReader = new Scanner(input);
+            boolean lastLineHasCode = false;
             while (inputReader.hasNextLine()) {
                 String data = inputReader.nextLine();
+                data = data.trim();
                 if(data.contains("Z ")) {
                     ArrayList<String> pr = parseLine(data);
-                    System.out.println(pr);
+                    //System.out.println(pr);
+                    classes.add(pr);
+                    lastLineHasCode = true;
+                }else if(lastLineHasCode && !data.equals("")){
+                    classes = addDiscription(classes, data);
+                }else if (data.equals("")){
+                    lastLineHasCode = false;
                 }
             }
         } catch (FileNotFoundException e){
             System.out.println("no file");}
+
+        for(ArrayList<String> course:classes){
+            System.out.println(course);
+        }
     }
 
     private ArrayList<String> parseLine(String line){
@@ -123,6 +137,19 @@ public class Parser {
         rt.add(courseKeys.get(courseCode.substring(0,2)));// add subject to end of list
 
         return rt;
+    }
+
+    private ArrayList<ArrayList<String>> addDiscription(ArrayList<ArrayList<String>> classList, String line){
+        ArrayList<String> classInfo = classList.get(classList.size()-1);
+        if(classInfo.size() == 5){
+            classInfo.add(line);
+        }else if(classInfo.size() == 6){
+            classInfo.set(5, classInfo.get(5));
+        }
+
+        classList.set(classList.size()-1, classInfo);
+
+        return  classList;
     }
 
     private void debug(String str){

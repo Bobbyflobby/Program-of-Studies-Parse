@@ -78,7 +78,7 @@ public class Parser {
                     classInfo pr = parseLine(data);
                     classes.add(pr);
                     lastLineHasCode = true;
-                }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it dosn't have a course code in it
+                }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it doesn't have a course code in it
                     classes = addDescription(classes, data);
                 }else if (data.equals("")){
                     lastLineHasCode = false;
@@ -119,7 +119,7 @@ public class Parser {
 
     }
 
-    //takes line as input and returns [course code, grades, credits, name, course catogory] (need to and levels)
+    //takes line as input and returns [course code, grades, credits, name, course category] (need to and levels)
     private classInfo parseLine(String line){
 
         classInfo rt = new classInfo();
@@ -135,7 +135,7 @@ public class Parser {
         if(line.contains("Grades ") || line.contains("Grade ")){
             int z = line.indexOf("Grade");
             String txt = line.substring(z); // make this smarter
-            int startGradeNumIndex = txt.indexOf(" ") +1;
+            int startGradeNumIndex = txt.indexOf(" ") + 1;
 
             int endIndex;
             if(txt.contains("credit")){
@@ -190,7 +190,7 @@ public class Parser {
 
     // looks to see if the is there is a level for the course stated in the title of the course
     private String findLevel(String classTitle){
-        String level = "";
+        String level;
         classTitle = " " + classTitle + " ";
         classTitle = classTitle.toUpperCase(Locale.ROOT);
 

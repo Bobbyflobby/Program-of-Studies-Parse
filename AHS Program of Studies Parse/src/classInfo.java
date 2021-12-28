@@ -4,8 +4,8 @@ public class classInfo {
     String classGrades;
     String classCredits;
     String classCategory;
-    String classDescription;
     String classLevel;
+    String classDescription;
 
     public classInfo(){
         classCode = null;

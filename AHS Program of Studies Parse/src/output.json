@@ -25,7 +25,7 @@
 }, {
   "classCode" : "SS7806Z",
   "className" : "Gender & Society (Semester course)",
-  "classGrades" : "Grades 11 & 12",
+  "classGrades" : "11 & 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -33,7 +33,7 @@
 }, {
   "classCode" : "PE7662Z",
   "className" : "A.M. Personal Fitness",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -41,7 +41,7 @@
 }, {
   "classCode" : "PE7663Z",
   "className" : "A.M. Recreational Sports",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -49,7 +49,7 @@
 }, {
   "classCode" : "PE7664Z",
   "className" : "Drugs and the Body",
-  "classGrades" : "Grades 10, 11 and 12",
+  "classGrades" : "10, 11 and 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -57,7 +57,7 @@
 }, {
   "classCode" : "SC3217Z",
   "className" : "Applied and Qualitative Chemistry - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -65,7 +65,7 @@
 }, {
   "classCode" : "SC####Z",
   "className" : "Physics*",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -73,7 +73,7 @@
 }, {
   "classCode" : "SC7286Z",
   "className" : "Weather and Climate",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -81,7 +81,7 @@
 }, {
   "classCode" : "SC7288Z",
   "className" : "Physiology of Exercise & Activity",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -89,7 +89,7 @@
 }, {
   "classCode" : "SC7290Z",
   "className" : "Philosophy of Science (Spring 2021)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -97,7 +97,7 @@
 }, {
   "classCode" : "SC7290Z",
   "className" : "Introduction to Philosophy (Fall 2020)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -105,7 +105,7 @@
 }, {
   "classCode" : "CS1923Z",
   "className" : "Creative Textile Design- Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -209,7 +209,7 @@
 }, {
   "classCode" : "EN1105Z",
   "className" : "Foundations of English - Curriculum H",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "H",
@@ -217,7 +217,7 @@
 }, {
   "classCode" : "EN1110Z",
   "className" : "Foundations of English - Curriculum A",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -225,7 +225,7 @@
 }, {
   "classCode" : "EN2125Z",
   "className" : "Examining Expression - Curriculum H",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "H",
@@ -233,7 +233,7 @@
 }, {
   "classCode" : "EN2120Z",
   "className" : "Examining Expression - Curriculum A",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -241,7 +241,7 @@
 }, {
   "classCode" : "EN3000Z",
   "className" : "Advanced Placement Language and Composition AP",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "AP",
@@ -249,7 +249,7 @@
 }, {
   "classCode" : "EN3105Z",
   "className" : "American Literature - Curriculum H",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "H",
@@ -257,7 +257,7 @@
 }, {
   "classCode" : "EN3110Z",
   "className" : "American Literature - Curriculum A",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -265,7 +265,7 @@
 }, {
   "classCode" : "EN4000Z",
   "className" : "AP Literature and Composition",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "AP",
@@ -273,7 +273,7 @@
 }, {
   "classCode" : "EN4266Z",
   "className" : "Memoir, Poetry and Fiction:",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -281,7 +281,7 @@
 }, {
   "classCode" : "EN7281Z",
   "className" : "ELA Missing Voices, Other Cultures",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -289,7 +289,7 @@
 }, {
   "classCode" : "EN4168Z",
   "className" : "Poetry as Art",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -297,7 +297,7 @@
 }, {
   "classCode" : "EN7275Z",
   "className" : "Public Speaking (Semester Course)",
-  "classGrades" : "Grades 11-12",
+  "classGrades" : "11-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "English",
   "classLevel" : "A",
@@ -649,7 +649,7 @@
 }, {
   "classCode" : "CS2241Z",
   "className" : "Early Childhood Education I",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -657,7 +657,7 @@
 }, {
   "classCode" : "CS3243Z",
   "className" : "Early Childhood Education II",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -665,7 +665,7 @@
 }, {
   "classCode" : "CS4241Z",
   "className" : "Early Childhood Education Practicum",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -673,7 +673,7 @@
 }, {
   "classCode" : "IN7699Z",
   "className" : "Early Childhood Education Internship",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -681,7 +681,7 @@
 }, {
   "classCode" : "IN7799Z",
   "className" : "Early Childhood Education Internship",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "10 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -689,7 +689,7 @@
 }, {
   "classCode" : "IN7750Z",
   "className" : "Early Childhood Practicum/Internship",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -697,7 +697,7 @@
 }, {
   "classCode" : "IN7751Z",
   "className" : "Early Childhood Practicum/Internship DB",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "10 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -705,7 +705,7 @@
 }, {
   "classCode" : "CS2305Z",
   "className" : "Culinary Arts and Hospitality  I",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -713,7 +713,7 @@
 }, {
   "classCode" : "CS3305Z",
   "className" : "Culinary Arts and Hospitality II",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -721,7 +721,7 @@
 }, {
   "classCode" : "CS3405Z",
   "className" : "Culinary Arts and Hospitality III",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -729,7 +729,7 @@
 }, {
   "classCode" : "CS2315Z",
   "className" : "Bake Shop 101 (Semester 1)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -737,7 +737,7 @@
 }, {
   "classCode" : "CS2317Z",
   "className" : "Morning Eats: Breakfast and Brunch (Semester 1)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -745,7 +745,7 @@
 }, {
   "classCode" : "CS2318Z",
   "className" : "Cooking On Your Own (Semester 1)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -753,7 +753,7 @@
 }, {
   "classCode" : "CS1921Z",
   "className" : "Interior and Fashion Design I",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -761,7 +761,7 @@
 }, {
   "classCode" : "CS2921Z",
   "className" : "Interior and Fashion Design II",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -777,7 +777,7 @@
 }, {
   "classCode" : "CS1922Z",
   "className" : "Interior & Fashion III",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -793,7 +793,7 @@
 }, {
   "classCode" : "CS1923Z",
   "className" : "Creative Textile Design- Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Life Skills",
   "classLevel" : "A",
@@ -841,7 +841,7 @@
 }, {
   "classCode" : "AC3610Z",
   "className" : "Art and Technology I Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -849,7 +849,7 @@
 }, {
   "classCode" : "AC3611Z",
   "className" : "Art and Technology II Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -857,7 +857,7 @@
 }, {
   "classCode" : "AC3602Z",
   "className" : "Sculptural and Functional Woodworking - Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -865,7 +865,7 @@
 }, {
   "classCode" : "AC3613Z",
   "className" : "Woodworking II - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -889,7 +889,7 @@
 }, {
   "classCode" : "SS1110Z",
   "className" : "Modern World History - Curriculum A",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -897,7 +897,7 @@
 }, {
   "classCode" : "SS1105Z",
   "className" : "Modern World History - Curriculum H",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "H",
@@ -905,7 +905,7 @@
 }, {
   "classCode" : "SS2210Z",
   "className" : "United States History 1 - Curriculum A",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -913,7 +913,7 @@
 }, {
   "classCode" : "SS2105Z",
   "className" : "United States History 1 - Honors",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "H",
@@ -921,7 +921,7 @@
 }, {
   "classCode" : "SS3110Z",
   "className" : "United States History 2 - Curriculum A",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -929,7 +929,7 @@
 }, {
   "classCode" : "SS3105Z",
   "className" : "United States History 2 - Honors",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "H",
@@ -937,7 +937,7 @@
 }, {
   "classCode" : "SS4000Z",
   "className" : "AP United States History AP",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "AP",
@@ -1073,7 +1073,7 @@
 }, {
   "classCode" : "SS7804Z",
   "className" : "AP Human Geography",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "AP",
@@ -1081,7 +1081,7 @@
 }, {
   "classCode" : "SS7802Z",
   "className" : "AP United States Government and Politics",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "AP",
@@ -1089,7 +1089,7 @@
 }, {
   "classCode" : "SS4400Z",
   "className" : "AP European History AP",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "AP",
@@ -1097,7 +1097,7 @@
 }, {
   "classCode" : "SS7000Z",
   "className" : "AP Psychology",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "AP",
@@ -1105,7 +1105,7 @@
 }, {
   "classCode" : "SS7293Z",
   "className" : "The Economics of Personal Finance",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1113,7 +1113,7 @@
 }, {
   "classCode" : "SS7196Z",
   "className" : "Economic Ideas and Policy",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1121,7 +1121,7 @@
 }, {
   "classCode" : "SS7298Z",
   "className" : "American Law (Semester course)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1129,7 +1129,7 @@
 }, {
   "classCode" : "SS7386Z",
   "className" : "American Popular Culture (Semester course)",
-  "classGrades" : "Grades 10, 11,12",
+  "classGrades" : "10, 11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1137,7 +1137,7 @@
 }, {
   "classCode" : "SS7154Z",
   "className" : "Current Issues: America & the World",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1145,7 +1145,7 @@
 }, {
   "classCode" : "SS7806Z",
   "className" : "Gender & Society   (Semester course)",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1153,7 +1153,7 @@
 }, {
   "classCode" : "SS7383Z",
   "className" : "History of Massachusetts (Semester course)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1161,7 +1161,7 @@
 }, {
   "classCode" : "SS7388Z",
   "className" : "History of the Middle East (Semester course)",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1169,7 +1169,7 @@
 }, {
   "classCode" : "SS7295Z",
   "className" : "Introduction to Economics (Semester Course)",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1177,7 +1177,7 @@
 }, {
   "classCode" : "SS7167Z",
   "className" : "Psychology & Human Behavior",
-  "classGrades" : "Grades 10, 11,12",
+  "classGrades" : "10, 11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1185,7 +1185,7 @@
 }, {
   "classCode" : "SS7280Z",
   "className" : "Race, Society, and Identity",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1193,7 +1193,7 @@
 }, {
   "classCode" : "SS7390Z",
   "className" : "Social History Through Sports",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Social Studies",
   "classLevel" : "A",
@@ -1377,7 +1377,7 @@
 }, {
   "classCode" : "MA1210Z",
   "className" : "Pre-Algebra - Curriculum B",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1385,7 +1385,7 @@
 }, {
   "classCode" : "MA1215Z",
   "className" : "Algebra I - Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1393,15 +1393,15 @@
 }, {
   "classCode" : "MA1105Z",
   "className" : "Geometry - Curriculum H",
-  "classGrades" : "Grades 9, 10",
+  "classGrades" : "9, 10",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
   "classDescription" : "Geometry Curriculum H is the first course in a four-year honors sequence. The students demonstrate higher order thinking skills in solving non-routine problems, and in discovering and writing inductive, deductive, indirect, and coordinate proofs. This accelerated course addresses the requirements of the current state framework, with major emphasis on the Geometry domain. Major content areas from this domain include the study of angles, polygons, polyhedrons, and circles, recognizing and applying properties of similarity and congruence, calculating measurements, and demonstrating and applying transformations. Students will also identify and apply trigonometric ratios and the Pythagorean theorem. The Statistics and Probability domain is addressed as students determine sample spaces using counting principles to find probability.  Additionally, all students will participate in the year-long Math Fair project.  The focus for Geometry students will be research skills and presentation skills.Suggested Entry Criteria:  Mastery of the concepts and skills of Algebra I.Next course:  Algebra II Curriculum H or Algebra II Curriculum A."
 }, {
   "classCode" : "MA2215Z",
-  "className" : "Geometry - Curriculum A\t\t\t\t     Geometry Curriculum A is the second course in a four-year college preparatory sequence. This course addresses the requirements of the current state framework with major emphasis on the Geometry domain. In the content standards of this domain, students study a full geometry curriculum. Major content areas include the study of lines, angles, polygons, circles, and congruence and similarity relationships. Students apply area and volume formulas to solve problems as well as use inductive and deductive reasoning processes to justify conclusions. Students will also work in the coordinate plane with transformations, distance and midpoint formulas, and parallel and perpendicular lines. The Number and Quantity domain is addressed as students work with powers and roots and use estimation in problem solving. Students use sample spaces to find simple probabilities, which is consistent with the standards of the Statistics and Probability domain.",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "className" : "Geometry - Curriculum A\t\t\t\t \t\t         Geometry Curriculum A is the second course in a four-year college preparatory sequence. This course addresses the requirements of the current state framework with major emphasis on the Geometry domain. In the content standards of this domain, students study a full geometry curriculum. Major content areas include the study of lines, angles, polygons, circles, and congruence and similarity relationships. Students apply area and volume formulas to solve problems as well as use inductive and deductive reasoning processes to justify conclusions. Students will also work in the coordinate plane with transformations, distance and midpoint formulas, and parallel and perpendicular lines. The Number and Quantity domain is addressed as students work with powers and roots and use estimation in problem solving. Students use sample spaces to find simple probabilities, which is consistent with the standards of the Statistics and Probability domain.",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1409,7 +1409,7 @@
 }, {
   "classCode" : "MA2105Z",
   "className" : "Algebra II - Curriculum H",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1417,7 +1417,7 @@
 }, {
   "classCode" : "MA3215Z",
   "className" : "Algebra II - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1425,7 +1425,7 @@
 }, {
   "classCode" : "MA3321Z",
   "className" : "Algebra II - Curriculum B",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1433,7 +1433,7 @@
 }, {
   "classCode" : "MA3105Z",
   "className" : "Pre-Calculus - Curriculum H",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1441,7 +1441,7 @@
 }, {
   "classCode" : "MA3110Z",
   "className" : "Pre-Calculus - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1449,7 +1449,7 @@
 }, {
   "classCode" : "MA4005Z",
   "className" : "AP Calculus BC",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1457,7 +1457,7 @@
 }, {
   "classCode" : "MA4000Z",
   "className" : "AP Calculus AB",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1465,7 +1465,7 @@
 }, {
   "classCode" : "MA4105Z",
   "className" : "Calculus - Curriculum H",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1473,7 +1473,7 @@
 }, {
   "classCode" : "MA4100Z",
   "className" : "AP Statistics",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1481,7 +1481,7 @@
 }, {
   "classCode" : "MA4125Z",
   "className" : "Statistics - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1489,7 +1489,7 @@
 }, {
   "classCode" : "MA4315Z",
   "className" : "Quantitative Reasoning - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1497,7 +1497,7 @@
 }, {
   "classCode" : "MA5002Z",
   "className" : "Linear Algebra - Curriculum H",
-  "classGrades" : "Grades 11 and 12",
+  "classGrades" : "11 and 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1505,7 +1505,7 @@
 }, {
   "classCode" : "MA5003Z",
   "className" : "Introduction to Number Theory - Curriculum H",
-  "classGrades" : "Grades 11 and 12",
+  "classGrades" : "11 and 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1513,7 +1513,7 @@
 }, {
   "classCode" : "MA7414Z",
   "className" : "Honors Computer Science Principles (",
-  "classGrades" : "Grades 9-12)",
+  "classGrades" : "9-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1521,7 +1521,7 @@
 }, {
   "classCode" : "MA7411Z",
   "className" : "AP Computer Science A (",
-  "classGrades" : "Grades 10-12)",
+  "classGrades" : "10-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1529,7 +1529,7 @@
 }, {
   "classCode" : "MA7419Z",
   "className" : "Computer Science Discoveries - Cur. A (",
-  "classGrades" : "Grades 9-12)",
+  "classGrades" : "9-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1537,7 +1537,7 @@
 }, {
   "classCode" : "MA7420Z",
   "className" : "Video Game Development - Honors (",
-  "classGrades" : "Grades 10-12)",
+  "classGrades" : "10-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1545,7 +1545,7 @@
 }, {
   "classCode" : "MA7421Z",
   "className" : "Advanced Robotics - Honors (",
-  "classGrades" : "Grades 10-12)",
+  "classGrades" : "10-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1553,7 +1553,7 @@
 }, {
   "classCode" : "MA7424Z",
   "className" : "Artificial Intelligence (A.I.) with Python - Honors (",
-  "classGrades" : "Grades 10-12)",
+  "classGrades" : "10-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1561,7 +1561,7 @@
 }, {
   "classCode" : "MA7518Z",
   "className" : "JavaScript and Web Development - Honors  (",
-  "classGrades" : "Grades 10-12)",
+  "classGrades" : "10-12)",
   "classCredits" : null,
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1641,7 +1641,7 @@
 }, {
   "classCode" : "MA7251Z",
   "className" : "C.A.D.D. 1  \t 2",
-  "classGrades" : "Grades 9-1",
+  "classGrades" : "9-1",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1649,7 +1649,7 @@
 }, {
   "classCode" : "MA7262Z",
   "className" : "C.A.D.D. 2.1",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1657,7 +1657,7 @@
 }, {
   "classCode" : "MA7268Z",
   "className" : "C.A.D.D. 2.2",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1665,7 +1665,7 @@
 }, {
   "classCode" : "MA7263Z",
   "className" : "C.A.D.D. 3.1",
-  "classGrades" : "Grades 11-12",
+  "classGrades" : "11-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1673,7 +1673,7 @@
 }, {
   "classCode" : "MA7269Z",
   "className" : "C.A.D.D. 3.2",
-  "classGrades" : "Grades 11-12",
+  "classGrades" : "11-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1681,7 +1681,7 @@
 }, {
   "classCode" : "MA7264Z",
   "className" : "C.A.D.D. 4.1",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1689,7 +1689,7 @@
 }, {
   "classCode" : "MA7270Z",
   "className" : "C.A.D.D. 4.2",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1697,7 +1697,7 @@
 }, {
   "classCode" : "MA7419Z",
   "className" : "Computer Science Discoveries - Curriculum A",
-  "classGrades" : "Grades 9-12",
+  "classGrades" : "9-12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "A",
@@ -1705,7 +1705,7 @@
 }, {
   "classCode" : "MA7410Z",
   "className" : "AP Computer Science A",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1713,7 +1713,7 @@
 }, {
   "classCode" : "MA7414Z",
   "className" : "Honors Computer Science Principles",
-  "classGrades" : "Grades 9-12",
+  "classGrades" : "9-12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1721,7 +1721,7 @@
 }, {
   "classCode" : "MA7415Z",
   "className" : "AP Computer Science Principles",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "5 credits",
   "classCategory" : "Math",
   "classLevel" : "AP",
@@ -1729,7 +1729,7 @@
 }, {
   "classCode" : "IN9915Z",
   "className" : "Independent Study in Computer Science",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -1737,7 +1737,7 @@
 }, {
   "classCode" : "MA7424Z",
   "className" : "Artificial Intelligence with Python - Honors",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1745,7 +1745,7 @@
 }, {
   "classCode" : "MA7518Z",
   "className" : "JavaScript and Web Development - Honors",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1753,7 +1753,7 @@
 }, {
   "classCode" : "MA7420Z",
   "className" : "Video Game Development - Honors",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -1761,7 +1761,7 @@
 }, {
   "classCode" : "MA7421Z",
   "className" : "Advanced Robotics - Honors",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Math",
   "classLevel" : "H",
@@ -2017,7 +2017,7 @@
 }, {
   "classCode" : "PA1250Z",
   "className" : "Drama I - Curriculum A",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2025,7 +2025,7 @@
 }, {
   "classCode" : "PA2249Z",
   "className" : "Honors Drama II - Curriculum H",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2033,7 +2033,7 @@
 }, {
   "classCode" : "PA3150Z",
   "className" : "Honors Drama III - Curriculum H",
-  "classGrades" : "Grades 11",
+  "classGrades" : "11",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2041,7 +2041,7 @@
 }, {
   "classCode" : "PA4150Z",
   "className" : "Honors Drama IV - Curriculum H",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2049,7 +2049,7 @@
 }, {
   "classCode" : "PA4141Z",
   "className" : "Classic American Film",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2057,7 +2057,7 @@
 }, {
   "classCode" : "PA4142Z",
   "className" : "Modern American Film",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2065,7 +2065,7 @@
 }, {
   "classCode" : "PA7210Z",
   "className" : "String Orchestra - Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2073,7 +2073,7 @@
 }, {
   "classCode" : "PA7110Z",
   "className" : "Honors String Orchestra - Curriculum H",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2081,7 +2081,7 @@
 }, {
   "classCode" : "PA7105Z",
   "className" : "Honors Symphonic Band - Curriculum H",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2097,7 +2097,7 @@
 }, {
   "classCode" : "PA7220Z",
   "className" : "Jazz Band - Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2105,7 +2105,7 @@
 }, {
   "classCode" : "PA7228Z",
   "className" : "Concert Choir - Curriculum A",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2121,7 +2121,7 @@
 }, {
   "classCode" : "PA7223Z",
   "className" : "Chorale - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2129,7 +2129,7 @@
 }, {
   "classCode" : "PA7125Z",
   "className" : "Madrigal Singers - Curriculum H",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "H",
@@ -2137,7 +2137,7 @@
 }, {
   "classCode" : "PA8200Z",
   "className" : "Introduction to Music Technology",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2145,7 +2145,7 @@
 }, {
   "classCode" : "PA9004Z",
   "className" : "Music and Sound for Film - Heterogeneous",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2153,7 +2153,7 @@
 }, {
   "classCode" : "PA0003Z",
   "className" : "Songwriting and Production - Heterogeneous",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2161,7 +2161,7 @@
 }, {
   "classCode" : "PA9005Z",
   "className" : "Mixing and Mastering - Heterogeneous",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2169,7 +2169,7 @@
 }, {
   "classCode" : "PA9006Z",
   "className" : "Sound Design, Synthesis and Electronic Music Programming",
-  "classGrades" : "Grades 10-12",
+  "classGrades" : "10-12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2177,7 +2177,7 @@
 }, {
   "classCode" : "PA9007Z",
   "className" : "Digital Music Portfolio I - Heterogeneous",
-  "classGrades" : "Grades 11, 12 only",
+  "classGrades" : "11, 12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2185,7 +2185,7 @@
 }, {
   "classCode" : "PA9008Z",
   "className" : "Digital Music Portfolio II - Heterogeneous",
-  "classGrades" : "Grades 12 only",
+  "classGrades" : "12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Music",
   "classLevel" : "A",
@@ -2193,7 +2193,7 @@
 }, {
   "classCode" : "PE1610Z",
   "className" : "9th",
-  "classGrades" : "Grades Wellness Program",
+  "classGrades" : "Wellness Program",
   "classCredits" : null,
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2345,7 +2345,7 @@
 }, {
   "classCode" : "PE7914Z",
   "className" : "Backpacking & Camping",
-  "classGrades" : "Grades 11 and 12 only)",
+  "classGrades" : "11 and 12 only)",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2353,7 +2353,7 @@
 }, {
   "classCode" : "PE7659Z",
   "className" : "Survival and Wilderness Camping",
-  "classGrades" : "Grades 11 and 12 only)",
+  "classGrades" : "11 and 12 only)",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2361,7 +2361,7 @@
 }, {
   "classCode" : "PE7686Z",
   "className" : "Physical Education Leader (  )",
-  "classGrades" : "Grades 11 and 12 only, Fall Semester,",
+  "classGrades" : "11 and 12 only, Fall Semester,",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2369,7 +2369,7 @@
 }, {
   "classCode" : "PE7688Z",
   "className" : "Physical Education Leader (  )",
-  "classGrades" : "Grades 11 and 12 only, Spring Semester,",
+  "classGrades" : "11 and 12 only, Spring Semester,",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2385,7 +2385,7 @@
 }, {
   "classCode" : "PE1610Z",
   "className" : "Ninth",
-  "classGrades" : "Grades Wellness Program\t\t\t Grade 9",
+  "classGrades" : "Wellness Program\t\t\t Grade 9",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2393,7 +2393,7 @@
 }, {
   "classCode" : "PE3725Z",
   "className" : "Personal PE Contract (Semester 1 or 2)",
-  "classGrades" : "Grades 12 only",
+  "classGrades" : "12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2401,7 +2401,7 @@
 }, {
   "classCode" : "PE7661Z",
   "className" : "Personal Fitness",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2409,7 +2409,7 @@
 }, {
   "classCode" : "PE77662Z",
   "className" : "A.M. Personal Fitness",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2417,7 +2417,7 @@
 }, {
   "classCode" : "PE7686Z",
   "className" : "Physical Education Leader (Fall Semester)",
-  "classGrades" : "Grades 11, 12 only",
+  "classGrades" : "11, 12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2425,7 +2425,7 @@
 }, {
   "classCode" : "PE7688Z",
   "className" : "Physical Education Leader (Spring Semester)",
-  "classGrades" : "Grades 11, 12 only",
+  "classGrades" : "11, 12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2433,7 +2433,7 @@
 }, {
   "classCode" : "PE7914Z",
   "className" : "Backpacking & Camping",
-  "classGrades" : "Grades 11, 12 only",
+  "classGrades" : "11, 12 only",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2441,7 +2441,7 @@
 }, {
   "classCode" : "PE7705Z",
   "className" : "Team Sports",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2449,7 +2449,7 @@
 }, {
   "classCode" : "PE7659Z",
   "className" : "Survival and Wilderness Camping",
-  "classGrades" : "Grades 11, 12 \tonly",
+  "classGrades" : "11, 12 \tonly",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2457,7 +2457,7 @@
 }, {
   "classCode" : "PE7700Z",
   "className" : "Advanced CPR & First Aid",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2465,7 +2465,7 @@
 }, {
   "classCode" : "PE7006Z",
   "className" : "Walking",
-  "classGrades" : "Grades 10, 11,12",
+  "classGrades" : "10, 11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2473,7 +2473,7 @@
 }, {
   "classCode" : "PE7025Z",
   "className" : "Yoga",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2481,7 +2481,7 @@
 }, {
   "classCode" : "PE5655Z",
   "className" : "Adaptive PE Leader",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2489,7 +2489,7 @@
 }, {
   "classCode" : "PE7021Z",
   "className" : "Nutrition",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2497,7 +2497,7 @@
 }, {
   "classCode" : "PE7007Z",
   "className" : "Biking",
-  "classGrades" : "Grades 10, 11 ,12",
+  "classGrades" : "10, 11 ,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2505,7 +2505,7 @@
 }, {
   "classCode" : "PE7026Z",
   "className" : "Relaxation",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2513,7 +2513,7 @@
 }, {
   "classCode" : "PE7804Z",
   "className" : "Indoor/Outdoor Rock Climbing",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2521,7 +2521,7 @@
 }, {
   "classCode" : "PE7020Z",
   "className" : "Recreational Sports",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2529,7 +2529,7 @@
 }, {
   "classCode" : "PE7663Z",
   "className" : "A.M. Recreational Sports",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2537,7 +2537,7 @@
 }, {
   "classCode" : "PE7660Z",
   "className" : "Wilderness First Aid",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2545,7 +2545,7 @@
 }, {
   "classCode" : "PE7916Z",
   "className" : "Athletic Training",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2553,7 +2553,7 @@
 }, {
   "classCode" : "PE7918Z",
   "className" : "Basic Physical Self Defense (Female/non-binary)",
-  "classGrades" : "Grades 10, 11,12",
+  "classGrades" : "10, 11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2561,7 +2561,7 @@
 }, {
   "classCode" : "PE7919Z",
   "className" : "Basic Physical Self Defense (Men/non-binary)",
-  "classGrades" : "Grades 10, 11,12",
+  "classGrades" : "10, 11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2569,7 +2569,7 @@
 }, {
   "classCode" : "PE7664Z",
   "className" : "Drugs and the Body",
-  "classGrades" : "Grades 10, 11 and 12",
+  "classGrades" : "10, 11 and 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Physical Education",
   "classLevel" : "A",
@@ -2577,7 +2577,7 @@
 }, {
   "classCode" : "SC1105Z",
   "className" : "Physical Science Honors",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "H",
@@ -2585,7 +2585,7 @@
 }, {
   "classCode" : "SC1115Z",
   "className" : "Physical Science - Curriculum A",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2593,7 +2593,7 @@
 }, {
   "classCode" : "SC2106Z",
   "className" : "Honors Biology - Curriculum H",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "H",
@@ -2601,7 +2601,7 @@
 }, {
   "classCode" : "SC2111Z",
   "className" : "Biology - Curriculum A",
-  "classGrades" : "Grades 10",
+  "classGrades" : "10",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2609,7 +2609,7 @@
 }, {
   "classCode" : "SC3106Z",
   "className" : "Honors Chemistry - Curriculum H",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "H",
@@ -2617,7 +2617,7 @@
 }, {
   "classCode" : "SC3111Z",
   "className" : "Chemistry - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2625,7 +2625,7 @@
 }, {
   "classCode" : "SC3217Z",
   "className" : "Applied and Qualitative Chemistry - Curriculum A",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2633,7 +2633,7 @@
 }, {
   "classCode" : "SC4116Z",
   "className" : "Physics*",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2641,7 +2641,7 @@
 }, {
   "classCode" : "SC4010Z",
   "className" : "Advanced Placement Biology AP",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "AP",
@@ -2649,7 +2649,7 @@
 }, {
   "classCode" : "SC4002Z",
   "className" : "Advanced Placement Chemistry AP",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "AP",
@@ -2657,7 +2657,7 @@
 }, {
   "classCode" : "SC4007Z",
   "className" : "Advanced Placement Physics 1 AP",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "AP",
@@ -2665,7 +2665,7 @@
 }, {
   "classCode" : "SC4008Z",
   "className" : "Advanced Placement Physics 2",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2673,7 +2673,7 @@
 }, {
   "classCode" : "SC4011Z",
   "className" : "AP Physics C (Mechanics)",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "AP",
@@ -2681,7 +2681,7 @@
 }, {
   "classCode" : "SC4070Z",
   "className" : "Advanced Placement Environmental Science",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2689,7 +2689,7 @@
 }, {
   "classCode" : "SC3252Z",
   "className" : "Anatomy and Physiology",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2697,7 +2697,7 @@
 }, {
   "classCode" : "SC7258Z",
   "className" : "Astronomy",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2705,7 +2705,7 @@
 }, {
   "classCode" : "SC7277Z",
   "className" : "Oceanography",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2713,15 +2713,15 @@
 }, {
   "classCode" : "SC7268Z",
   "className" : "Environmental Science",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
   "classDescription" : "Environmental science focuses on the study of how human activity affects habitats and the relationships among organisms and the natural world. The course will include the detailed study of the principles of ecology, including several hands-on investigations and research projects and papers. Students will investigate the earth’s natural resources, including biodiversity, soil, land, air, water, and energy, with the goal of understanding the delicate balance of life on earth. Problems such as pollution, overpopulation, and extinction are studied in a global context, and students investigate a wide range of solutions based on the in-depth study of environmental science. The principles of chemistry and physics are integrated into the course, as they relate to environmental science.Suggested Entry Criteria: B- or better in Biology.* Students have the option of earning Honors Credit through more challenging research and project work."
 }, {
   "classCode" : "SC1292Z",
-  "className" : "Engineering                           \t\t\t    \tThis course will utilize the Engineering the Future curriculum developed by the Museum of Science (Boston), with particular emphasis on engineering design, manufacturing, construction, written communication, and mathematics. The school resources available in the technology resource center will be utilized for collaborative project design and construction, integrating concepts across the disciplines in the school's Maker space. Students work in a classroom and workshop setting with woodworking materials, metals, and laboratory equipment. By applying the mathematics of engineering and completing hands-on design projects, students learn about the different roles of mechanical, fluid and electrical engineering in the modern world. The course helps students pursuing a technical career to understand the many ways in which they may engineer the world of the future.",
-  "classGrades" : "Grades 11, 12",
+  "className" : "Engineering                           \t\t\t  \t\t\t          \tThis course will utilize the Engineering the Future curriculum developed by the Museum of Science (Boston), with particular emphasis on engineering design, manufacturing, construction, written communication, and mathematics. The school resources available in the technology resource center will be utilized for collaborative project design and construction, integrating concepts across the disciplines in the school's Maker space. Students work in a classroom and workshop setting with woodworking materials, metals, and laboratory equipment. By applying the mathematics of engineering and completing hands-on design projects, students learn about the different roles of mechanical, fluid and electrical engineering in the modern world. The course helps students pursuing a technical career to understand the many ways in which they may engineer the world of the future.",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2729,7 +2729,7 @@
 }, {
   "classCode" : "SC7286Z",
   "className" : "Weather and Climate",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2737,7 +2737,7 @@
 }, {
   "classCode" : "SC7288Z",
   "className" : "Physiology of Exercise & Activity",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2745,7 +2745,7 @@
 }, {
   "classCode" : "SC7290Z",
   "className" : "Philosophy of Science (Spring 2021)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2753,7 +2753,7 @@
 }, {
   "classCode" : "SC7292Z",
   "className" : "Introduction to Philosophy (Fall 2020)",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Science",
   "classLevel" : "A",
@@ -2881,7 +2881,7 @@
 }, {
   "classCode" : "AC1206Z",
   "className" : "Foundations in Studio Art - Curriculum A",
-  "classGrades" : "Grades 9, 10, 11, 12",
+  "classGrades" : "9, 10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2889,7 +2889,7 @@
 }, {
   "classCode" : "AC2206Z",
   "className" : "Studio Art * - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2897,7 +2897,7 @@
 }, {
   "classCode" : "AC7830Z",
   "className" : "Mixed Media *- Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2905,7 +2905,7 @@
 }, {
   "classCode" : "AC7822Z",
   "className" : "Painting I * - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2913,7 +2913,7 @@
 }, {
   "classCode" : "AC7823Z",
   "className" : "Painting II * - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2921,7 +2921,7 @@
 }, {
   "classCode" : "AC3600Z",
   "className" : "Ceramic Sculpture and Pottery I * - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2929,7 +2929,7 @@
 }, {
   "classCode" : "AC3603Z",
   "className" : "Ceramic Sculpture and Pottery II - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2937,7 +2937,7 @@
 }, {
   "classCode" : "AC7825Z",
   "className" : "Drawing I* - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2945,7 +2945,7 @@
 }, {
   "classCode" : "AC7826Z",
   "className" : "Drawing II - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2953,7 +2953,7 @@
 }, {
   "classCode" : "AC3601Z",
   "className" : "Sculpture* - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2961,7 +2961,7 @@
 }, {
   "classCode" : "AC3105Z",
   "className" : "Portfolio Preparation - Curriculum H",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "H",
@@ -2969,7 +2969,7 @@
 }, {
   "classCode" : "AC4130Z",
   "className" : "Advanced Portfolio Preparation - Curriculum H",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "H",
@@ -2977,7 +2977,7 @@
 }, {
   "classCode" : "AC4002Z",
   "className" : "Advanced Placement Art and Design - Curriculum AP",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "AP",
@@ -2985,7 +2985,7 @@
 }, {
   "classCode" : "AC3588Z",
   "className" : "Digital Photography I - Curriculum A",
-  "classGrades" : "Grades 10, 11, 12",
+  "classGrades" : "10, 11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -2993,7 +2993,7 @@
 }, {
   "classCode" : "AC3590Z",
   "className" : "Digital Photography II",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "5 credits",
   "classCategory" : "Art",
   "classLevel" : "A",
@@ -3553,7 +3553,7 @@
 }, {
   "classCode" : "ML7102Z",
   "className" : "World Language Teaching Internship",
-  "classGrades" : "Grades 11,12",
+  "classGrades" : "11,12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Foreign Language(not latin)",
   "classLevel" : "A",
@@ -3561,7 +3561,7 @@
 }, {
   "classCode" : "ML7103Z",
   "className" : "World Language Teaching Internship",
-  "classGrades" : "Grades 11,12",
+  "classGrades" : "11,12",
   "classCredits" : "5 credits",
   "classCategory" : "Foreign Language(not latin)",
   "classLevel" : "A",
@@ -3617,7 +3617,7 @@
 }, {
   "classCode" : "IN5001Z",
   "className" : "Academic Internship",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "2.5 credits",
   "classCategory" : "Internship",
   "classLevel" : "A",
@@ -3625,7 +3625,7 @@
 }, {
   "classCode" : "IS0000Z",
   "className" : "Independent Study",
-  "classGrades" : "Grades 11, 12",
+  "classGrades" : "11, 12",
   "classCredits" : "No credits",
   "classCategory" : "Independent Study",
   "classLevel" : "A",
@@ -3633,7 +3633,7 @@
 }, {
   "classCode" : "SP0000Z",
   "className" : "Senior Privilege",
-  "classGrades" : "Grades 12",
+  "classGrades" : "12",
   "classCredits" : "No credits",
   "classCategory" : "Special",
   "classLevel" : "A",
@@ -3649,7 +3649,7 @@
 }, {
   "classCode" : "FR9999Z",
   "className" : "Freshman Seminar",
-  "classGrades" : "Grades 9",
+  "classGrades" : "9",
   "classCredits" : "1.25 credits",
   "classCategory" : "Freshman Seminar",
   "classLevel" : "A",

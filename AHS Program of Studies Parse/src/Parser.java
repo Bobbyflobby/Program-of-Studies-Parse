@@ -133,44 +133,24 @@ public class Parser {
 
         // gets grade numbers
         if(line.contains("Grades ") || line.contains("Grade ")){
-            int z = line.indexOf("Grade");
-            String txt = line.substring(z); // make this smarter
-            int startGradeNumIndex = txt.indexOf(" ") + 1;
-
-            int endIndex;
-            if(txt.contains("credit")){
-                endIndex = txt.indexOf(txt.substring(txt.indexOf("credit")-5, txt.indexOf("credit")));// make smarter
-            }else{
-                endIndex = txt.length();
-            }
-            String grades = txt.substring(startGradeNumIndex, endIndex); // make this smarter
+            rt.setClassGrades(findGrades(line));
 
             // removes from edited line
             editedLine += "  ";
-            editedLine = editedLine.substring(0, editedLine.indexOf(grades)) + editedLine.substring(editedLine.indexOf(grades)+grades.length());
+            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getClassGrades())) + editedLine.substring(editedLine.indexOf(rt.getClassGrades())+rt.getClassGrades().length());
 
             if(editedLine.toUpperCase(Locale.ROOT).contains("GRADES")){
                 editedLine = editedLine.substring(0,editedLine.toUpperCase(Locale.ROOT).indexOf("GRADES")) + editedLine.substring(editedLine.toUpperCase(Locale.ROOT).indexOf("GRADES") + 6);
             }else if(editedLine.toUpperCase(Locale.ROOT).contains("GRADE")){
                 editedLine = editedLine.substring(0,editedLine.toUpperCase(Locale.ROOT).indexOf("GRADE")) + editedLine.substring(editedLine.toUpperCase(Locale.ROOT).indexOf("GRADE") + 5);
             }
-
-            grades = grades.trim();
-            rt.setClassGrades("Grades " + grades);
         }
 
         // Find credits if exists
         if(line.contains("credits")){
-            int index = line.indexOf("credits");
-            int startIndex = line.substring(0, index-2).lastIndexOf(" ");
-            String txt = line.substring(startIndex + 1, index + 7);
-            txt = txt.trim();
+            rt.setClassCredits(findCredits(line));
 
-            if(txt.contains("(")){ // sometimes parentheses would be counted to
-                txt = txt.substring(txt.indexOf("(")+1);
-            }
-            rt.setClassCredits(txt);
-            editedLine = editedLine.substring(0, editedLine.indexOf(txt)) + editedLine.substring(editedLine.indexOf(txt)+txt.length());
+            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getClassCredits())) + editedLine.substring(editedLine.indexOf(rt.getClassCredits())+rt.getClassCredits().length());
             if(editedLine.contains("()")){
                 editedLine = editedLine.substring(0,editedLine.indexOf("(")) + editedLine.substring(editedLine.indexOf(")") +1);
             }
@@ -186,6 +166,36 @@ public class Parser {
         rt.setClassLevel(findLevel(rt.getClassName())); // finds class level
 
         return rt;
+    }
+
+    private String findGrades(String line){
+        int z = line.indexOf("Grade");
+        String txt = line.substring(z); // make this smarter
+        int startGradeNumIndex = txt.indexOf(" ") + 1;
+
+        int endIndex;
+        if(txt.contains("credit")){
+            endIndex = txt.indexOf(txt.substring(txt.indexOf("credit")-5, txt.indexOf("credit")));// make smarter
+        }else{
+            endIndex = txt.length();
+        }
+        String grades = txt.substring(startGradeNumIndex, endIndex); // make this smarter
+
+        grades = grades.trim();
+        return grades;
+    }
+
+    private String findCredits(String line){
+        int index = line.indexOf("credits");
+        int startIndex = line.substring(0, index-2).lastIndexOf(" ");
+        String txt = line.substring(startIndex + 1, index + 7);
+        txt = txt.trim();
+
+        if(txt.contains("(")){ // sometimes parentheses would be counted to
+            txt = txt.substring(txt.indexOf("(")+1);
+        }
+
+        return txt;
     }
 
     // looks to see if the is there is a level for the course stated in the title of the course

@@ -5,21 +5,14 @@ only works if course codes end in a "Z"
 Started Dec 2021
  */
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.FileNotFoundException;  // Import this class to handle errors
-
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Locale;
-import java.util.Map;
-import java.util.HashMap;
-import java.util.Scanner;
-
-import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.*;
 
 public class Parser {
     File input;
@@ -28,7 +21,7 @@ public class Parser {
     final String outputLocation = "src/output.json";
     Boolean debugOn;
     Map<String, String> courseKeys = new HashMap<>();
-    ArrayList<classInfo> classes = new ArrayList<>();
+    ArrayList<ClassInfo> classes = new ArrayList<>();
 
     public Parser(){
         input = new File(inputLocation);
@@ -75,11 +68,11 @@ public class Parser {
                 String data = inputReader.nextLine();
                 data = data.trim();
                 if(data.contains("Z ")) { // looks for the "Z" in the end of the course code to find if the line contains a course codes or not
-                    classInfo pr = parseLine(data);
+                    ClassInfo pr = parseLine(data);
                     classes.add(pr);
                     lastLineHasCode = true;
                 }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it doesn't have a course code in it
-                    classes = addDescription(classes, data);
+                    addDescription(classes, data);
                 }else if (data.equals("")){
                     lastLineHasCode = false;
                 }
@@ -88,7 +81,7 @@ public class Parser {
             System.out.println("no file");}
 
         if(debugOn){
-            for(classInfo course:classes){
+            for(ClassInfo course:classes){
                System.out.println(course);
             }
         }
@@ -101,10 +94,7 @@ public class Parser {
         try {
             // creates the json
             jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(classes);
-        }
-        catch (JsonParseException e) { e.printStackTrace();}
-        catch (JsonMappingException e) { e.printStackTrace(); }
-        catch (JsonProcessingException e) {e.printStackTrace();}
+        } catch (JsonProcessingException e) { e.printStackTrace(); }
 
         //writes json to file
         try {
@@ -120,9 +110,9 @@ public class Parser {
     }
 
     //takes line as input and returns [course code, grades, credits, name, course category] (need to and levels)
-    private classInfo parseLine(String line){
+    private ClassInfo parseLine(String line){
 
-        classInfo rt = new classInfo();
+        ClassInfo rt = new ClassInfo();
 
         line = line.trim();// Remove spaces on each end
         String editedLine = line; //copy of line that is edited
@@ -216,8 +206,8 @@ public class Parser {
     }
 
     // adds given line to the end of last list in the list of classes
-    private ArrayList<classInfo> addDescription(ArrayList<classInfo> classList, String line){
-        classInfo editedClass = classList.get(classList.size()-1);
+    private void addDescription(ArrayList<ClassInfo> classList, String line){
+        ClassInfo editedClass = classList.get(classList.size()-1);
 
         if(editedClass.getClassDescription() == null) {
             editedClass.setClassDescription(line);
@@ -226,8 +216,6 @@ public class Parser {
         }
 
         classList.set(classList.size()-1, editedClass);
-
-        return  classList;
     }
 
     // prints string if debug mode is on

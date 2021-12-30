@@ -1,4 +1,4 @@
-public class classInfo {
+public class ClassInfo {
     String classCode;
     String className;
     String classGrades;
@@ -7,7 +7,7 @@ public class classInfo {
     String classLevel;
     String classDescription;
 
-    public classInfo(){
+    public ClassInfo(){
         classCode = null;
         className = null;
         classGrades = null;

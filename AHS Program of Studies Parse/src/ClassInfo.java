@@ -1,36 +1,40 @@
 public class ClassInfo {
-    String classCode;
-    String className;
-    String classGrades;
-    String classCredits;
-    String classCategory;
-    String classLevel;
-    String classDescription;
+    String ID;
+    String Name;
+    String Type;
+    String Grade;
+    String Credit;
+    String Length; // currently unused
+    String Level;
+    String Description;
 
     public ClassInfo(){
-        classCode = null;
-        className = null;
-        classGrades = null;
-        classCredits = null;
-        classCategory = null;
-        classLevel = null;
-        classDescription = null;
+        ID = null;
+        Name = null;
+        Grade = null;
+        Credit = null;
+        Type = null;
+        Level = null;
+        Description = null;
+
+        Length = "1";
     }
 
     // not using all set/get methods but added them to make stuff easier in the future
-    public void setClassCode(String code){classCode = code;}
-    public void setClassName(String name){className = name;}
-    public void setClassGrades(String grades){classGrades = grades;}
-    public void setClassCredits(String credits){classCredits = credits;}
-    public void setClassCategory(String category){classCategory = category;}
-    public void setClassLevel(String level){classLevel = level;}
-    public void setClassDescription(String description){classDescription = description;}
+    public void setClassCode(String code){ID = code;}
+    public void setClassName(String name){Name = name;}
+    public void setClassGrades(String grades){Grade = grades;}
+    public void setClassCredits(String credits){Credit = credits;}
+    public void setClassCategory(String category){Type = category;}
+    public void setClassLevel(String level){Level = level;}
+    public void setClassDescription(String description){Description = description;}
 
-    public String getClassCode(){return classCode;}
-    public String getClassName(){return  className;}
-    public String getClassGrades(){return classGrades;}
-    public String getClassCredits(){return classCredits;}
-    public String getClassCategory(){return classCategory;}
-    public String getClassLevel(){return classLevel;}
-    public String getClassDescription(){return classDescription;}
+
+    public String getID(){return ID;}
+    public String getName(){return  Name;}
+    public String getGrade(){return Grade;}
+    public String getCredit(){return Credit;}
+    public String getType(){return Type;}
+    public String getLevel(){return Level;}
+    public String getDescription(){return Description;}
 }

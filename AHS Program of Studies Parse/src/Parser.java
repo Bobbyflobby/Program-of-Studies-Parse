@@ -106,7 +106,6 @@ public class Parser {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
-
     }
 
     //takes line as input and returns [course code, grades, credits, name, course category] (need to and levels)
@@ -127,7 +126,7 @@ public class Parser {
 
             // removes from edited line
             editedLine += "  ";
-            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getClassGrades())) + editedLine.substring(editedLine.indexOf(rt.getClassGrades())+rt.getClassGrades().length());
+            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getGrade())) + editedLine.substring(editedLine.indexOf(rt.getGrade())+rt.getGrade().length());
 
             if(editedLine.toUpperCase(Locale.ROOT).contains("GRADES")){
                 editedLine = editedLine.substring(0,editedLine.toUpperCase(Locale.ROOT).indexOf("GRADES")) + editedLine.substring(editedLine.toUpperCase(Locale.ROOT).indexOf("GRADES") + 6);
@@ -140,7 +139,7 @@ public class Parser {
         if(line.contains("credits")){
             rt.setClassCredits(findCredits(line));
 
-            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getClassCredits())) + editedLine.substring(editedLine.indexOf(rt.getClassCredits())+rt.getClassCredits().length());
+            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getCredit())) + editedLine.substring(editedLine.indexOf(rt.getCredit())+rt.getCredit().length());
             if(editedLine.contains("()")){
                 editedLine = editedLine.substring(0,editedLine.indexOf("(")) + editedLine.substring(editedLine.indexOf(")") +1);
             }
@@ -153,7 +152,7 @@ public class Parser {
 
         rt.setClassCategory(courseKeys.get(courseCode.substring(0,2)));// add subject to end of list (gets from course keys map)
 
-        rt.setClassLevel(findLevel(rt.getClassName())); // finds class level
+        rt.setClassLevel(findLevel(rt.getName())); // finds class level
 
         return rt;
     }
@@ -209,10 +208,10 @@ public class Parser {
     private void addDescription(ArrayList<ClassInfo> classList, String line){
         ClassInfo editedClass = classList.get(classList.size()-1);
 
-        if(editedClass.getClassDescription() == null) {
+        if(editedClass.getDescription() == null) {
             editedClass.setClassDescription(line);
         }else{
-            editedClass.setClassDescription(editedClass.getClassDescription() + line);
+            editedClass.setClassDescription(editedClass.getDescription() + line);
         }
 
         classList.set(classList.size()-1, editedClass);

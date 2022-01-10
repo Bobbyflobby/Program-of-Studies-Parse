@@ -37,15 +37,15 @@ public class Parser {
         courseKeys.put("SS", "Social Studies");
         courseKeys.put("MA", "Math");
         courseKeys.put("PA", "Music");
-        courseKeys.put("ML", "Foreign Language(not latin)");
-        courseKeys.put("OL", "Foreign Language(not latin)");
+        courseKeys.put("ML", "Foreign Language");
+        courseKeys.put("OL", "Foreign Language");
         courseKeys.put("CL", "Latin");
         courseKeys.put("FR", "Freshman Seminar");
         courseKeys.put("IS", "Independent Study");
         courseKeys.put("AP", "AP");
         courseKeys.put("SP", "Special");
         courseKeys.put("CD", "Technology Intern");
-        courseKeys.put("TW", "enter something for tw");
+        courseKeys.put("TW", "Workplace Course");
 
         try {
             output = new File(outputLocation);

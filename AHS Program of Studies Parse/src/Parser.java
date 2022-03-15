@@ -12,6 +12,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.util.*;
 
 public class Parser {
@@ -69,7 +70,8 @@ public class Parser {
                 data = data.trim();
                 if(data.contains("Z ")) { // looks for the "Z" in the end of the course code to find if the line contains a course codes or not
                     ClassInfo pr = parseLine(data);
-                    classes.add(pr); // @TODO merge duplicate class listings on the output and move setting defaults to after merging
+                    mergeData(classes, pr);
+                    //classes.add(pr); // @TODO merge duplicate class listings on the output and move setting defaults to after merging
                     lastLineHasCode = true;
                 }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it doesn't have a course code in it
                     addDescription(classes, data);
@@ -193,12 +195,16 @@ public class Parser {
         classTitle = " " + classTitle + " ";
         classTitle = classTitle.toUpperCase(Locale.ROOT);
 
-        if(classTitle.contains(" AP ")){
+        if(classTitle.contains(" AP ") || classTitle.toLowerCase(Locale.ROOT).contains("advanced placement")){
             level = "AP";
-        }else if(classTitle.contains(" H ") || classTitle.contains(" HONORS ")){
+        }else if(classTitle.contains(" H ") || classTitle.toLowerCase(Locale.ROOT).contains(" honors ")){
             level = "H";
-        }else{
+        }else if (classTitle.contains(" A ")){
             level = "A";
+        }else if(classTitle.toLowerCase(Locale.ROOT).contains("heterogeneous")){
+            level = "Heterogeneous";
+        }else{
+            level = null;
         }
 
         return level;
@@ -215,6 +221,23 @@ public class Parser {
         }
 
         classList.set(classList.size()-1, editedClass);
+    }
+
+    private void mergeData(ArrayList<ClassInfo> classList, ClassInfo classAdding){
+        for(ClassInfo clas:classList){
+            if(clas.getID().equals(classAdding.getID())){
+                if(clas.getName() == null) clas.setClassName(classAdding.getName());
+                if(clas.getGrade() == null) clas.setClassGrades(classAdding.getGrade());
+                if(clas.getCredit() == null) clas.setClassCredits(classAdding.getCredit());
+                if(clas.getLevel() == null) clas.setClassLevel(classAdding.getLevel());
+                if(clas.getDescription() == null) clas.setClassDescription(classAdding.getDescription());
+                //not passing type because it comes from the code
+
+                return;
+            }
+        }
+        classList.add(classAdding);
+        return;
     }
 
     // prints string if debug mode is on

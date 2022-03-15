@@ -4,7 +4,6 @@ public class ClassInfo {
     String Type;
     String Grade;
     String Credit;
-    String Length; // currently unused
     String Level;
     String Description;
 
@@ -16,8 +15,6 @@ public class ClassInfo {
         Type = null;
         Level = null;
         Description = null;
-
-        Length = "1";
     }
 
     // not using all set/get methods but added them to make stuff easier in the future

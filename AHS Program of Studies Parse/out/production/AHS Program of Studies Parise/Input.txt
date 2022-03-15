@@ -1,22 +1,21 @@
+
+
+
 AHS
 PROGRAM
 OF
 STUDIES
-2020-2021
-
-
-
-Please note this is a draft and still requires final approval by the Arlington High School Committee.
-Updates will be listed in the document linked below (Updates)
+2021-2022
 
 
 
 
 
 
-Last updated: January 17, 2020
 
-Updates Specific to 2020-2021
+Last updated: March 2, 2021
+
+Updates Specific to 2021-2022
 
 Table of Contents
 
@@ -40,8 +39,9 @@ Family and Consumer Sciences
 History and Social Sciences
 Maker’s Space Offering
 Mathematics
+Project Based Electives
 Performing Arts
-Physical Education/Wellness
+Wellness
 Science
 Specialized Programs
 Visual Arts
@@ -93,8 +93,6 @@ Stress and time management
 Communication skills
 A love of learning coupled with a willingness to work hard
 
-
-
 II. Graduation Requirements
 Graduation Requirements
 Pass MCAS exam in ELA, Math and STE (further explained below)
@@ -122,16 +120,17 @@ AC3602Z Sculptural and Functional Woodworking
 Definition of the Four Year Physical Education Graduation Requirement*
 Grade 9: Students are required to take the 9th Grade Program.
 Grade 10: Students are required to take two different quartered electives (preferably in the same semester). Students are not allowed to take electives marked for Grade 11 and 12 only.  (each course is one quarter long)
-Grades 11 and 12: Students are required to take two quarter electives by the time of their graduation.  This may entrail taking two quartered electives during your junior year, or one junior and one senior year. Spaces may be limited in some electives. Seniors are given preference. Grade 12 students cannot not enroll in Quarter 4 electives.
+Grades 11 and 12: Students are required to take two quarter electives by the time of their graduation.  This may entail taking two quartered electives during your junior year, or one junior and one senior year. Spaces may be limited in some electives. Seniors are given preference. Grade 12 students cannot enroll in Quarter 4 PE electives because the length of 4 quarter 4 for seniors is shortened.
 There is a 4 absence allowance for all Quarter Elective classes. If a student surpasses the 4 absence allowance they must enroll in another elective in a different quarter to earn PE Graduation requirement credit and may require changes to their schedule in order to complete this requirement.
 *Covid-19 update:
-Members of the Class of 2022 and the Class of 2021 enrolled in Term 4 Physical Education classes, in order to meet the grade-level requirements for Physical Education will not have an opportunity to complete those credits because of our closing of the 2020 school year.  Making up this term in later years will substantially reduce opportunities for them to explore other academic offerings and will require them to take more than the usual amount of PE in one year.
-For this reason, we will reduce the Physical Education graduation requirement for the Classes of 2021 and 2022 by one term of Physical Education (requiring Grade 9 PE and a total of 3 quarters of PE during grades 10-12)
+Members of the Class of 2022 enrolled in Term 4 Physical Education classes in 2020 will not have an opportunity to complete those credits because of our remote status in  the 2020 school year.  Making up this term in later years will substantially reduce opportunities for them to explore other academic offerings and will require them to take more than the usual amount of PE in one year.
 
-Class of 2021 - will require 4 PE courses (9th grade PE and 3 quarter electives)
+For this reason, we will reduce the Physical Education graduation requirement for the Classes of 2022 by one term of Physical Education (requiring Grade 9 PE and a total of 3 quarters of PE during grades 10-12)
+
 Class of 2022 - will require 4 PE courses (9th grade PE and 3 quarter electives)
 Class of 2023 - will require 5 PE courses (9th grade PE and 4 quarter electives)
 Class of 2024 - will require 5 PE courses (9th grade PE and 4 quarter electives)
+Class of 2025 - will require 5 PE courses (9th grade PE and 4 quarter electives)
 Promotion and Graduation
 Students must earn a passing final grade for the course in order to earn course credits towards graduation.  For a student to advance from one grade level to the next higher grade level, the following requirements should be met:
 Grade 10		22 credits minimum
@@ -140,11 +139,12 @@ Grade 12		72 credits minimum
 Graduation	           106 credits minimum
 
 MCAS Competency Determination
-Students must meet or exceed a score of 472 or higher on the Massachusetts Comprehensive Assessment System (MCAS) in the subject areas of English Language Arts and Mathematics. Students who earn a scaled score between 440 and 469 on the English Language Arts and Mathematics examinations may receive a high school diploma only by demonstrating proficiency in the subject matter through completion of an Education Proficiency Plan (EPP) by continuing additional work in the targeted content area(s) through grade 12.
+Students must meet or exceed a score of 470 or higher on the Massachusetts Comprehensive Assessment System (MCAS) in the subject areas of English Language Arts and Mathematics. Students who earn a scaled score between 440 and 469 on the English Language Arts and Mathematics examinations may receive a high school diploma only by demonstrating proficiency in the subject matter through completion of an Education Proficiency Plan (EPP) by continuing additional work in the targeted content area(s) through grade 12.
 
 Students must also meet or exceed a scaled score of 220 on the Science, Technology and Engineering Exam in the one of the tested subject areas: Chemistry, Introductory Physics, Biology, or Technology/Engineering.
-These are subject to change as the state updates the requirements
+These are subject to change as the state updates the requirements.**
 
+**Students whose year of graduation is 2022, 2023 will not be required to take the STE upon district certification that the student earned credit for a course aligned to the curriculum frameworks in the relevant subject matter and has demonstrated competency in one of the four tested disciplines (biology, chemistry, introductory physics, and technology/engineering) in either the 19-20 school year or a prior school year.
 
 MCAS exam
 Scaled Scores
@@ -262,9 +262,9 @@ AHS Course Levels
 The following course levels are offered at Arlington High School:
 
 Advanced Placement - primarily for students in Grades 11 and 12, AP courses offer a fast-paced, intensive, college-level, exposure to a specific curriculum.  Students in AP courses must take the AP exam, offered by the College Board, at the end of the school year in order to receive AP credit for these courses.
-Curriculum H - for students in Grades 9 – 12, Curriculum H courses are driven by independent student-work and, along with Advanced Placement courses, require the highest amount of student discipline, energy, effort, and organizational skills.
-Curriculum A - for students in Grades 9 – 12, Curriculum A courses are college preparatory courses that cover rigorous content, college preparatory skill development, and specific instruction from teachers in study skills.
-Curriculum B - for students in Grades 9 – 11 with teacher and school counselor approval only, Curriculum B courses allow for some remediation while still providing preparation for college and career. Students who are interested in Division 1 or 2 college athletics will need to satisfy NCAA Eligibility Criteria which is available on their website, www.ncaaclearinghouse.org.  Historically, Curriculum A, Honors and AP courses have met these standards.  Please note that the NCAA has not approved Curriculum B core classes at this point in time.
+Curriculum H - for students in Grades 9–12, Curriculum H courses are driven by independent student-work and, along with Advanced Placement courses, require the highest amount of student discipline, energy, effort, and organizational skills.
+Curriculum A - for students in Grades 9–12, Curriculum A courses are college preparatory courses that cover rigorous content, college preparatory skill development, and specific instruction from teachers in study skills.
+Curriculum B - for students in Grades 9–11 with teacher and school counselor approval only, Curriculum B courses allow for some remediation while still providing preparation for college and career. Students who are interested in Division 1 or 2 college athletics will need to satisfy NCAA Eligibility Criteria which is available on their website, www.ncaaclearinghouse.org.  Historically, Curriculum A, Honors and AP courses have met these standards.  Please note that the NCAA has not approved Curriculum B core classes at this point in time.
 Heterogeneous courses - Courses with this designation are offered to all students. Students access the same curriculum at the same time with the same teacher. Teachers will differentiate instruction to ensure that all students are appropriately challenged by the curriculum and can reach their full potential. Although this practice is not new to Arlington High School, we are making an effort to ensure that all students take at least two heterogeneous classes in core content areas before they graduate, as required by the New England Association of Schools and Colleges (NEASC). Students have the option of earning Honors Credit through more challenging research and project work. Students who are interested in earning Honors credit will inform the teacher in September.
 
 
@@ -321,8 +321,8 @@ Letter Grade Explanation
  P	Pass. Student has demonstrated the expectations for content knowledge and complex reasoning skills and work habits in a course designated pass/fail.
  H	Honors
  S	Satisfactory
-U	Unsatisfactory
-         W	Withdraw - Student withdrew from the class after the official date to be removed from a class.
+ U	Unsatisfactory
+          W	Withdraw - Student withdrew from the class after the official date to be removed from a class.
 
 Term Grades
 The following grades may appear in the term grade for a course, but will not appear in the year-end grade for the course.
@@ -344,26 +344,26 @@ A formal withdrawal procedure must be followed in order to change or withdraw fr
 
 The final date to request a course change for a course will be 3 weeks after the first day of school.  For the few electives or other classes that are offered during second semester, the final date to request a change is 3 weeks after the first day of term 3. (See chart below for specific dates).  Any course change after this deadline will be reflected with a W in the term and end of year grade, but it will not impact their GPA. Please note, these deadlines are also applied to any student wishing to change from a heterogeneous level within a course to an honors level.
 
-These dates will be finalized once the calendar year for 2020-2021 is finalized  by the School Committee
+These dates will be finalized once the calendar year for 2021-2022 is finalized  by the School Committee
 
 Year long course
 3 weeks after first day of school
-September 29, 2020
+September 29, 2021
 Semester 1 course
 2 weeks after first day of school
-September 29, 2020
+September 22, 2021
 Semester 2 course
 2 weeks after first day of term 3
-April 16, 2020
+January 28, 2022
 Quarter 1
 1 weeks after the first day of term 1
-September 14, 2020
+September 14, 2022
 Quarter 2
 1 week after the first day of term 2
-November 18, 2019
+November 18, 2021
 Quarter 3
 1 week  after the first day of term 3
-February 5, 2020
+February 5, 2022
 Quarter 4
 1 week after the first day of term 4
 April 17, 2020
@@ -371,7 +371,6 @@ April 17, 2020
 *these dates are subject to change as the schedule for 2020-2021 is finalized
 
 When a student transfers from one level to another in the same content area (Honors Geometry to Curriculum A Geometry) the student’s grade for the course travels with him/her and is averaged into the final grade for the term in the receiving course.  When a student replaces one course with a completely different course, (i.e. Astronomy to French I) the grade does not travel with the student.  If a student enters the new class too late in the term to earn a grade they will receive an NG in the receiving class.  If it is determined that a student must change their schedule after the above deadline, teachers, department heads, counselors, special education liaisons (when applicable) and house deans can and will be involved in the decision to withdraw a student from a course and determine the grade adjustment for shifting levels or whether sufficient work exists to receive a grade.
-
 Auditing Courses
 The option to audit a course will be approved by the Principal in extenuating circumstances.  Auditing is a procedure whereby students attend a class for no credit.  It is understood that a student who wishes to audit a course and have a notation of that audit appear on the transcript must meet regular attendance and class participation standards in that class.
 
@@ -515,14 +514,29 @@ Substance Abuse Services
 The Intervention Coordinator, a clinical social worker in our School Counseling Department, also provides a range of support to students affected by substance use. Being caught with drugs or alcohol in or outside of school, or general concern from faculty, staff, or parent/guardian(s) may warrant a student being asked or required to complete an evaluation. Identified students participate in a one-hour evaluation after which the information gathered is used to determine the relative risk that this student may develop or continue to display a substance abuse problem. After this assessment students may be identified as needing a group or individual support and/or out of school support from a range of community resources. In addition, the Intervention Coordinator facilitates the Jive Turkeys, a student-named support group for teens considering making healthier decisions around drinking and other drug use. This group meets Tuesdays during the school day.
 
 The Millbrook Program
-Millbrook is an in district, general education, transition and assessment program which assists in obtaining a better understanding of students social, emotional, academic and transitional needs.
+Millbrook is an in-district, general education, transition and assessment program which assists in obtaining a better understanding of students social, emotional, academic and transitional needs.
 
 Academic Support Services
 
-The Learning Center                  				Grades 9, 10, 11, 12
+The Learning Center                  						                  Grades 9, 10, 11, 12
 The Learning Center provides a wide-range of academic support to accommodate the students' varied needs.  The teachers work with students clarifying assignments, reviewing content material, structuring and editing essays, supporting ELL students' language development, assisting with college and scholarship applications, and improving study habits and organizational skills.  The center is a quiet, structured learning environment where students can work together or independently to complete their assignments.  Helping students further develop their executive functioning skills is a major focus of the program.  Student progress is closely monitored through PowerSchool.  The Learning Center teachers communicate with classroom teachers, guidance counselors, and support staff on a regular basis.  Students are expected to bring materials and assignments to class and remain on task.  National Honor Society peer tutors are also available to provide additional support. Students can be scheduled into the Learning Center or drop-in during free periods or after school.
 
-New Courses 2020 - 2021
+New Courses 2021 - 2022
+ML1020Z Italian 1 – Introductory								          5 credits
+This is an introductory course designed for first-year students who begin the study of Italian in High School. This course aims to develop basic proficiency in the three modes of communication (interpretive, interpersonal and presentational) via the skills of listening to, speaking, reading, and writing of Italian, as well as to develop understanding of Italian culture. The proficiency target for the end of this course is Novice High: students will be able to participate in direct conversations with simple sentences and to satisfy some basic needs.
+* Students have the option of earning Honors Credit through more challenging research and project work.
+
+CS2242Z Child Development and Parenting		Grade 10 - 12				        2.5 credits
+Would you like to learn more about children, but are having a difficult time fitting a one year course into your schedule?  Would you like to explore the role of being an important person in a child’s life?  Would you like to learn more about how to support families? This is the perfect opportunity to learn more about child development, as well as parenting and caregiving roles in relation to the developing child and guiding them in the learning process.  Join us for a highly engaging, hands-on, personalized look at children, how they grow and develop, and how parents and extended family members and/or friends help them grow into healthy young adults.  Explore the various roles that adults play in children's development, learning, and personal family lives.  This class is a great option for students who would like to explore child development or who are interested in having or working with children and families in the future.
+
+CS2307Z Adulting with Technology 			Grades 10, 11, 12			        2.5 credits
+Adulting with Technology will integrate aspects of culinary classes with career, financial literacy, relationship and health skills with the technology students are already using in their daily lives. Students will explore apps and free websites to find the best methods for managing their resources throughout their adult lives. Adulting with Technology is a semester course that allows students to participate in a variety of group and independent learning activities including, labs, simulations, guest speakers, and hands-on activities.
+
+SS7392Z  Power and Protest 				 Grades 10-12				        2.5 credits
+The course will examine the history of  protest in the United States while examining specific case studies and their impact on society. We will look at the ideological, political, and economic origins of the protest and their contributions to the larger social movements. We will also explore the rhetoric and tactics employed by the movements and the responses to the movements by the general public and government.  Some case studies we will consider include: the Seneca Falls Convention, the Montgomery Bus Boycott, the Stonewall Inn riots, Occupation of Alcatraz, the Million Man March, Occupy Wall Street, March for Our Lives, Dakota Pipeline protest, and Black Lives Matter.
+* Students have the option of earning Honors Credit through more challenging research and project work.
+
+The following courses were offered last year, but did not run due to scheduling changes with Covid-19.
 SS7806Z  Gender & Society (Semester course)    		Grades 11 & 12		                    2.5 credits
 This course will examine why gender equality is so important and yet so hard to achieve. The central aim is to foster critical reading and thinking about gender and the ways in which it is shaped by the interlocking systems of racism, sexism, ethnocentrism, heterosexism, ageism, ableism, colonialism and globalization; and how social movements have resisted these inequalities and worked to create new systems of change. We will scrutinize political, social and legal constructions of gender which continue to operate as though gender is binary, and explore a more inclusive approach which reflects a gender continuum within the context of entrenched power structures. Through understanding the construction of gender and its relationship with society, we will look for solutions to eradicate gender discrimination and gender-based violence.
 
@@ -535,30 +549,8 @@ This course will meet from 7:30am-8:20am. Students in this course will participa
 PE7664Z Drugs and the Body					Grades 10, 11 and 12		        2.5 credits
 This course will dive deeper into the effects of drugs, both legal and illegal, and how they affect the body. The course will build off of the Grade 9 curriculum and offer a more in-depth look at their effects on the human body, behavior, psychology, and experience.
 
-SC3217Z Applied and Qualitative Chemistry - Curriculum A  	Grades 11, 12 		         	          5 credits
-The Applied and Qualitative Chemistry program is designed to be a hands-on inquiry-based exploration of chemistry. It is designed to develop problem-solving and critical-thinking skills related to chemistry, apply chemistry knowledge to decision-making about scientific issues, and recognize the importance of chemistry in daily life. Always focused on making the connections between science and technology and their impact on the quality of our lives, the study of chemistry uses multiple pathways of scientific reasoning with specific emphasis on written and oral communication as well as logical reasoning to explore atomic and molecular structure, chemical bonds, conservation of matter, reaction rates, organic chemistry, acid-base chemistry and biochemistry. Students will be expected to relate and use learned concepts in class through lab experiences, projects, tests, and common applications.
-
-SC####Z Physics*      					Grade 11, 12			          5 credits
-This physics course is for highly motivated students with strong scientific interest and mathematical ability. Students should be able to handle abstract ideas both conceptually and quantitatively, including their application to new situations. The major topics include force and motion, vectors and projectiles, energy and momentum, electricity and magnetism, and waves and light.
-Suggested Entry Criteria: Algebra 2 (may be taken concurrently). Teacher Recommendation
-**Students have the option of earning Honors Credit through more challenging research and project work.
-
-SC7286Z Weather and Climate                          		Grades 10, 11, 12 		        2.5 credits
-With a planet in extreme environmental disruption due to the increasing effects of Global Climate Change, it has never been more important to study the science of weather and climate on planet Earth. This half-year course of introductory meteorology will explore how the orbital mechanics of the Earth alter the way it absorbs energy from the Sun, thereby causing the air and water on the surface of the Earth to cycle and cause the various weather phenomena we experience throughout our lives. In addition to learning about the complex global climate systems that influence our weather, students will learn the basics of observing the environment around them to forecast local weather to come. Students will be expected to collect field samples and measure weather conditions numerous times throughout the course, so prepare to be outside throughout the seasons both in class and for homework.
-* Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
-
-SC7288Z Physiology of Exercise & Activity		Grades 10, 11, 12 		       2.5 credits
-This course examines the physiological effects of exercise and activity with an emphasis on humans. Major topics include energy use & nutrition, the muscular, cardiovascular, and respiratory adaptations across the age span and special environments (high and low altitude, heat and cold). Must be currently enrolled or have completed biology
-* Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
-
-SC7290Z Philosophy of Science (Spring 2021) 		Grades 10, 11, 12 		        2.5 credits
-The good results of science are indisputable. But sometimes discovery is based on ideas that are found to be a bit off the mark. Newton’s Laws were taken to be absolute, then Einstein remade physics from the ground up. Yet still, engineers, architects, athletes, and surveyors all rely on Newton’s laws. Science is our major current attempt at a self-correcting body of knowledge, but how does that really work? What must we assume, in order to do science? Is science a handy set of beliefs and processes that tend to give us the results we seek? Or is it a matrix of ideas that directly reflect the world as it is?  Can science represent the world with complete accuracy? If not, what does it take for us to consider an idea justified enough to believe it or call it “true”? We will be exploring the development of science in the Western world, mostly in a historical perspective, and try to come to grips with some of these questions. It is fervently to be hoped that this deeper perspective will increase students’ appreciation of science, while decreasing the sense of oracular mystery that can surround it. This course does not fulfill the science graduation requirement.
-
-SC7290Z Introduction to Philosophy (Fall 2020) 		Grades 10, 11, 12 		        2.5 credits
-About 2,500 years ago, a thread of analysis of ordinary experience arose which has continued to this day.  My thumbnail definition of philosophy is: The study of those questions that we have to assume we know the answer to just to conduct our daily lives. Examples of such questions include: How do I know when I know something? What kind of society should we build? What makes a society better than another? What obligations do I have to my family, my friends, to strangers, or to the state? Are we able to choose our actions freely, or does everything that happened to us, combined with the laws of physics, close off all decisions I can think of, except one? Does the universe care about us, or are we just kind of here?  All these questions have been addressed over the centuries, and we still do not have universal agreement on the answers. We will look into some prominent answers from the past, and wrestle with the questions ourselves. Philosophy is difficult to study because it is a debate, not a single body of agreed-upon answers. It is also difficult to study because we really, really like our own views. This course does not fulfill the science graduation requirement.
-
 CS1923Z Creative Textile Design- Curriculum A		Grade 10, 11, 12		        2.5 credits
-Do you enjoy creative, hands-on classes?  Want something to add to your fashion portfolio?  Do you enjoy exploring color and design to create a custom wardrobe accessory?  Then this semester long class is for you!! We’ll be combining technology with traditional methods, such as knitting and weaving, working with a variety of fibers in creating your own fabric. Use the principles of design, color theory, and your newly learned skills to create your own textiles that can be made into something to suit your personalized wardrobe or home accessory.
+Do you enjoy creative, hands-on classes?  Want something to add to your fashion portfolio?  Do you enjoy exploring color and design to create a custom wardrobe accessory?  Then this semester-long class is for you!! We’ll be combining technology with traditional methods, such as knitting and weaving, working with a variety of fibers in creating your own fabric. Use the principles of design, color theory, and your newly learned skills to create your own textiles that can be made into something to suit your personalized wardrobe or home accessory.
 
 English Language Arts
 English classes are designed to foster clear thinking, thoughtful discussion, respectful collaboration, active listening and the improvement of student writing and reading. Each course provides opportunities for students to work with language-as readers, writers, and thinkers.  Student writing will be kept in a portfolio to help students monitor their own progress.
@@ -596,7 +588,7 @@ EN3110Z American Literature
 EN7275Z Public Speaking
 Grade 12
 EN4000Z
-AP Literature and Composition
+AP Language and Literature AP
 All Senior electives are offered as heterogeneous courses.
 ** Students have the option of earning Honors Credit through more challenging research and project work. Students who are interested in earning Honors credit will inform the teacher in September.
 
@@ -679,7 +671,7 @@ Reading and Creating Literary Forms
 Students in this course will have the opportunity to find their creative voices in three distinct areas.  The college essay will begin a study of memoir; students will then study the short story, and finally poetry.  In each case, writing will be informed by both classic and contemporary literature.  Memoirs by David Sedaris, Dave Eggers, Jeannette Walls; poetry by authors ranging from William Shakespeare to Robert Frost to Billy Collins; and short stories by Hemingway, Poe, Vonnegut, Chopin and many others will all give shape and texture to the literary forms that students will write.  Students will create a writing portfolio as the culmination of the year’s work.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
-EN7281Z ELA Missing Voices, Other Cultures	Grade 12          	           		          5 credits
+EN7281Z Missing Voices, Other Cultures	Grade 12          	           		          5 credits
 Literature often tells us about people whose lives are informed by the societies in which they live.  Whether defined by race or culture, exclusion or inclusion, power or weakness, characters in literature can help us to see how society shapes both behavior and motivation. Students in this course will hear the voices of people who have had to work to be heard, whether it is because of gender, beliefs, family background,  political realities, or other issues that have caused them to speak out as a means of defining themselves.  Students will write regularly in this course; analytical essays, personal essays, and formal presentations will offer students opportunities to hone the writing skills they have been working on throughout their high school years.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
@@ -688,7 +680,8 @@ As one of the oldest art forms, poetry has become both a time-piece and a galler
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
 EN7275Z Public Speaking (Semester Course)	Grades 11-12           		        2.5 credits
-Students are provided with skills to strengthen performance as persuasive communicators, problem-solvers and problem- solvers. Students learn and practice various forms of speeches including demonstration, motivational, informative and persuasive speech. Opportunities for practice in public speaking are provided through formal and informal debates, class presentations, impromptu deliveries, videotapes, PowerPoint presentations, and peer evaluations.  As their skills are developed, students will increase their confidence and enthusiasm as public speakers and writers.   This course does not count towards the four year English requirement.
+Sharpening communication skills, which rests on the ability to ‘stand and deliver,’ promises academic and professional success for life.  That remains the guiding belief of this course.  In a relaxed, supportive environment, students identify and cultivate strategies to most effectively express themselves.  In doing so, they discover their hidden voices and master proven techniques of informing, persuading, and motivating others.  By choosing their own topics and acting on ongoing peer feedback, students come to celebrate their existing strengths as communicators while targeting focused areas for maximum improvement.  In little time, all students reach heightened self-awareness, gain valuable confidence, and achieve distinct professionalism in the way they present themselves and their personal beliefs.
+  This course does not count towards the four year English requirement.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
 English Learner Education (ELL)
@@ -723,7 +716,16 @@ ELL III - Expanding/Bridging (One block-full year)						          5 credits
 This course is designed for students with advanced English language proficiency, in need of an additional year of English language development support in addition to an ELA course.  All four areas of second language acquisition are emphasized.  Listening, speaking, reading, and writing are emphasized through independent use of reading strategies to authentic literature and students own independent reading. This course is taken in conjunction with a grade appropriate English course.
 
 Family and Consumer Sciences
-All courses in the Department of Family and Consumer Sciences address Massachusetts Health Frameworks Standards as well as National Standards for Family and Consumer Sciences.  Family and Consumer Sciences is all about “learning for living.”  We offer courses to help young men and women develop a variety of personal and career skills.  Some classes are in laboratory settings that provide opportunities for learning by demonstration, practical hands-on experiences, observation and discussion.  These courses encourage accomplishment through work in small groups and in individual projects.  The skills learned in our classes will be useful to students now and throughout their lives.
+All courses in the Department of Family and Consumer Sciences address standards in the following areas:
+Massachusetts Health Frameworks Standards
+Massachusetts Career Readiness Benchmarks
+Massachusetts Visual Arts Standards
+Massachusetts Vocational Technical Standards for Early Childhood Education
+Massachusetts Vocational Technical Standards for Culinary Arts
+National Standards for Family and Consumer Sciences
+National Personal Finance Standards
+
+Family and Consumer Sciences is all about “learning for living.”  We offer courses to help young men and women develop a variety of personal and career skills.  Classes are in laboratory settings that provide opportunities for learning by demonstration, practical hands-on experiences, observation and discussion.  These courses encourage accomplishment through work in small groups and individual projects.  The skills learned in our classes will be useful to students now and throughout their lives.
 
 Levels
 Curriculum H
@@ -741,6 +743,7 @@ Grades
 
 CS2241Z  Early Childhood Education I
 CS3243Z  Early Childhood Education II
+CS2242Z Child Development and Parenting
 CS1920Z  Interior and Fashion Design I
 CS2920Z  Interior and Fashion Design II
 CS2305Z  Culinary Arts and Hospitality I
@@ -748,7 +751,8 @@ CS3305Z  Culinary Arts and Hospitality II
 CS2315Z  Bake Shop 101 (1 Semester)
 CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
-CS1923Z Creative Textile Design
+CS1923Z  Creative Textile Design
+CS2306  Adulting with Technology
 Grades
 11, 12
 CS4241Z Early Childhood Education Practicum
@@ -758,8 +762,10 @@ CS4241Z Early Childhood Education Practicum
 
 CS2241Z  Early Childhood Education I
 CS3243Z  Early Childhood Education II
+CS2242ZChild Development and Parenting
 CS1920Z  Interior and Fashion Design I
 CS2920Z  Interior and Fashion Design II
+CS1923Z Creative Textile Design
 CS2305Z  Culinary Arts and Hospitality I
 CS3305Z  Culinary Arts and Hospitality II
 CS3405Z  Culinary Arts and Hospitality III
@@ -767,6 +773,8 @@ CS2315Z  Bake Shop 101 (1 Semester)
 TE3930Z  Introduction to Wood Technology
 CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
+CS2306  Adulting with Technology
+CS2307Z Adulting with Technology II
 Grade 12
 CS4241Z Early Childhood Education Practicum
 
@@ -779,70 +787,77 @@ IN7750Z Early Childhood Education Practicum/Internship (5 credits)
 IN7751Z Early Childhood Practicum/Internship DB (10 credits)
 CS2241Z  Early Childhood Education I
 CS3243Z  Early Childhood Education II
+CS2242ZChild Development and Parenting
 CS1920Z  Interior and Fashion Design I
 CS2920Z  Interior and Fashion Design II
+CS1923Z Creative Textile Design
 CS2305Z  Culinary Arts and Hospitality I
 CS3305Z  Culinary Arts and Hospitality II
 CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
 CS3405Z  Culinary Arts and Hospitality III
 CS2315Z  Bake Shop 101 (1 Semester)
-
-
-
+CS2306  Adulting with Technology
+CS2307Z Adulting with Technology II
 
 
 Child Development Studies
 
-These courses are designed for students interested in studying Early Childhood in college or pursuing careers working with young children such as early childhood or elementary school teachers, daycare providers, child psychologists, pediatricians, or social workers.  Students will learn about the development of children through a variety of classroom and preschool lab activities.  Students will gain invaluable experience and insight into the roles of parents, teachers, and other professionals who work with young children.
+These courses are designed for students interested in studying Early Childhood in college or pursuing careers working with young children such as early childhood or elementary school teachers, daycare providers, child psychologists, pediatricians, or social workers.  These courses also benefit students who aspire to be a parent, aunt, or uncle.Students will learn about the development of children through a variety of classroom and preschool lab activities.  Students will gain invaluable experience and insight into the roles of parents, teachers, and other professionals who work with young children.
 
 Students who complete the course requirements for Early Childhood Education I, Early Childhood Education II, and Early Childhood Education Practicum and Internship may meet the requirements for EEC (Office for Early Education and Care) certification.  This certification allows individuals to work in private early childhood programs as teachers.  Students will be awarded a letter documenting their participation upon completion of requirements.
 
 CS2241Z Early Childhood Education I	Grades  9, 10, 11, 12	          5 credits
-Although all students are welcome, this elective course is especially designed for students who are interested in pursuing careers in early childhood and elementary education and care or other fields working with children. Students study the development of children from birth to age 5 with a strong emphasis on early childhood curriculum and programs. There will be a focus on current research of brain development, different learning styles, and theories of development, teaching, and learning. The study of children will be accomplished through class readings and discussion, research projects, observations in early childhood programs, media presentations, and hands-on experience working with three and four year old children in Menotomy Preschool.  Students apply their knowledge of developmentally appropriate activities for young children by planning, implementing, and evaluating activities for the preschool children in all curriculum areas.
+Although all students are welcome, this elective course is especially designed for students who are interested in pursuing careers in early childhood and elementary education and care or other fields working with children. Students study the development of children from birth to age 5 with a strong emphasis on early childhood curriculum and programs. There will be a focus on current research of brain development, different learning styles, and theories of development, teaching, and learning. The study of children will be accomplished through class readings and discussion, research projects, observations in early childhood programs, media presentations, and hands-on experience working with three and five year old children in Menotomy Preschool.  Students apply their knowledge of developmentally appropriate activities for young children by planning, implementing, and evaluating activities for the preschool children in all curriculum areas.
 
 CS3243Z Early Childhood Education II	Grades 10, 11, 12        	            5 credits
-This challenging and rewarding class gives you the opportunity to begin working with children in Menotomy Preschool on a regular basis.  You will write and implement lesson plans, create educational games, teach simple math, language arts, social studies and science concepts, explore music and movement activities, and develop creativity through art. You will apply these skills directly with the children on a rotating basis every other week. Bi-weekly class discussions and planning times give you the opportunity to evaluate your progress, discuss the children’s growth and needs, and continue planning for the next teaching session.
-Entry Criteria:  Successful completion of Early Childhood Education I and Lead Teacher approval.
+This challenging and rewarding class gives you the opportunity to begin working with children in Menotomy Preschool on a regular basis.  You will write and implement lesson plans, create educational games, plan lessons for simple math, language arts, social studies and science concepts, explore music and movement activities, and develop creativity through art. You will apply the knowledge you learn directly with the children in the preschool on a regular basis. Entry Criteria:  Successful completion of Early Childhood Education I and Lead Teacher approval.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
-CS4241Z Early Childhood Education Practicum	Grade 12	          5 credits
-This course is for students who have already taken Early Childhood Education I and II and are ready for considerable responsibility applying and practicing their teaching skills in the preschool on a regular basis. You will experience the fun and challenge of working with three and four year old children in the Menotomy Preschool Program as you become involved in all aspects of preschool teaching including planning and implementing activities with the children, interacting with them, and supervising and ensuring their safety.  This course provides an invaluable opportunity for first-hand experience in teaching for those students who are planning to enter the field of childcare after high school or who will pursue a college degree in education or another child related field. Entry Criteria:  Successful completion of Early Childhood Education II and Lead Teacher approval.
+CS4241Z Early Childhood Education Practicum	Grades 11, 12	          5 credits
+This course is for students who have already taken Early Childhood Education I and II and are ready for considerable responsibility applying and practicing their teaching skills in the preschool on a regular basis. You will experience the fun and challenge of working with three to five year old children in the Menotomy Preschool Program as you become involved in all aspects of preschool teaching including planning and implementing activities with the children, interacting with them, and supervising and ensuring their safety.  This course provides an invaluable opportunity for first-hand experience in teaching for those students who are planning to enter the field of childcare after high school or who will pursue a college degree in education or another child related field. Entry Criteria:  Successful completion of Early Childhood Education II and Lead Teacher approval.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
 IN7699Z Early Childhood Education Internship	Grade 12           	          5 credits
 IN7799Z Early Childhood Education Internship	Grade 12       	         10 credits
-Students who have already completed three years of Early Childhood Education courses, or who are enrolling in the Early Childhood Practicum course as seniors, may choose to do an internship in an elementary school classroom.  Students who enroll in this program will work out a school placement and a project plan with the ECE teacher in early fall and will then spend the school year working in an elementary or preschool classroom. Students will need flexibility in their schedule in order to schedule this internship around their other high school courses.  5 credits will be awarded to students completing 4 blocks per week of the internship, while 10 credits will be awarded to students completing 8 blocks per week.
+Students who have already completed three years of Early Childhood Education courses may choose to do an internship in an elementary school classroom.  Students who enroll in this program will work out a school placement and a project plan with the ECE teacher in early fall and will then spend the school year working in an elementary or preschool classroom. Students will need flexibility in their schedule in order to schedule this internship around their other high school courses.  5 credits will be awarded to students completing 4 blocks per week of the internship, while 10 credits will be awarded to students completing 8 blocks per week.
 Entry Criteria: Successful completion of Early Childhood Education I, Early Childhood Education II, and Early Childhood Practicum, as well as teacher approval.
 
 IN7750Z Early Childhood Practicum/Internship		 Grade 12                                            5 credits
 IN7751Z Early Childhood Practicum/Internship DB		 Grade 12                                          10 credits
 This course is designed for Seniors who were unable to participate in all four years of the Early Childhood Education Program, but who would like to participate in an internship at Menotomy Preschool, one of the Arlington Public Schools elementary classrooms, or a teacher approved community preschool or daycare.  The course is designed to be a combination of the Early Childhood Practicum coursework and Early Childhood Education Internship.  5 credits will be awarded to students completing 4 blocks per week of the internship, while 10 credits will be awarded to students completing 8 blocks per week.  Please Note:  Students must have pre-approval from the program instructor and Family and Consumer Sciences  Lead-teacher.  Students who participate in this course will not be eligible for certification with the Massachusetts Office of Early Childhood and Care
 
+
+CS2242Z Child Development and Parenting			Grade 10 - 12			        2.5 credits
+Would you like to learn more about children, but are having a difficult time fitting a one year course into your schedule?  Would you like to explore the role of being an important person in a child’s life?  Would you like to learn more about how to support families? This is the perfect opportunity to learn more about child development, as well as parenting and caregiving roles in relation to the developing child and guiding them in the learning process.  Join us for a highly engaging, hands-on, personalized look at children, how they grow and develop, and how parents and extended family members and/or friends help them grow into healthy young adults.  Explore the various roles that adults play in children's development, learning, and personal family lives.  This class is a great option for students who would like to explore child development or who are interested in having or working with children and families in the future.
+
 Foods, Hospitality, and Tourism Career Paths
 
 The exciting worlds of hospitality and tourism are two of the fastest growing and most exciting industries in the world today. This encompasses more than 15 related industries including food service, travel, tourism, and lodging services. This program will give students the opportunity to explore and research the career paths available and participate in shadow programs for a first-hand look at what the professionals in these industries actually do on the job. Students will be given a broad overview of these career paths in the grade 9 course. In the following years, students will have the option of concentrating their studies in a specific related career path.
 
 CS2305Z Culinary Arts and Hospitality  I			Grades 9, 10, 11, 12        	          5 credits
-In this course, you will learn food preparation skills for both home and in the hospitality industry.  Explore the wide range of career and business opportunities available in this billion dollar industry.  Through foods labs, a variety of hands-on activities, discussions, field trips, guest speakers, readings, and research projects. Learn how to prepare healthy foods, fun menus, arranging trips,”planning events, and comparing features of all areas of the hospitality and tourism industry. Walk out of this class with the skills necessary to get an entry level job in the field and find out what this industry can offer you as you consider your future career options. In addition, the foods and nutrition units of this course provide opportunities for students to develop skills in food preparation techniques, meal planning, consumerism, and nutrition planning. Students will be evaluated through a variety of foods labs, hands-on activities, projects, presentations, demonstrations, and lab experiences to demonstrate their understanding of culinary and nutrition concepts.
+In this course, you will learn food preparation skills for both home and in the hospitality industry.  Explore the wide range of career and business opportunities available in this billion dollar industry.  Through food labs, a variety of hands-on activities, discussions, field trips, guest speakers, readings, and research projects. Learn how to prepare healthy foods, fun menus, arranging trips,”planning events, and comparing features of all areas of the hospitality and tourism industry. Walk out of this class with the skills necessary to get an entry level job in the field and find out what this industry can offer you as you consider your future career options. In addition, the foods and nutrition units of this course provide opportunities for students to develop skills in food preparation techniques, meal planning, consumerism, and nutrition planning. Students will be evaluated through a variety of food labs, hands-on activities, projects, presentations, demonstrations, and lab experiences to demonstrate their understanding of culinary and nutrition concepts.
 
 CS3305Z Culinary Arts and Hospitality II			Grades 10, 11, 12		          5 credits
 This elective course is for students who have taken  Culinary Arts and Hospitality  I  and are interested in pursuing a career in the hospitality field. There will continue to be a focus on the wide range of career and business opportunities available in this field, with a concentration on marketing, planning and research in the hospitality and tourism industry. Students will engage in product development, learn to prepare some recipes in the production method style, and will analyze nutritional content of foods and recipes through the use of technology.  Students will be evaluated through a variety of foods labs, hands-on activities, projects, presentations, demonstrations, and lab experiences to demonstrate their understanding of culinary and nutrition concepts
 Entry Criteria: Successful completion of  Culinary Arts and Hospitality  I
 
 CS3405Z Culinary Arts and Hospitality III			Grades 11, 12			          5 credits
-Culinary Arts and Hospitality III is the third level of Culinary Arts and Hospitality at Arlington High School and prepares students for gainful employment and/or entry into post‐secondary education in the food production and service industry. Content provides students the opportunity to acquire marketable skills by demonstrating the principles of safety and sanitation, food preparation skills, and advanced culinary skills. Part of this course will prepare the student to pass the test for ServSafe Certification as a Food Handler. Skills and content will be explored through a variety of hands‐on activities, simulations, guest speakers, and field trips. We will also explore a variety of Culinary Arts Programs at the post‐secondary level.
+Culinary Arts and Hospitality III is the third level of Culinary Arts and Hospitality at Arlington High School and prepares students for gainful employment and/or entry into post‐secondary education in the food production and service industry. Content provides students the opportunity to acquire marketable skills by demonstrating the principles of safety and sanitation, food preparation skills, and advanced culinary skills. Part of this course will prepare the student to pass the test for ServSafe Certification as a Food Handler. Skills and content will be explored through a variety of hands-on activities, simulations, guest speakers, and field trips. We will also explore a variety of Culinary Arts Programs at the post‐secondary level.
 Entry Criteria: Successful completion of Culinary Arts and Hospitality I, Culinary Arts and Hospitality II, and teacher approval.
 
-CS2315Z Bake Shop 101 (Semester 1)                            	Grades 10, 11, 12		        2.5 credits
+CS2315Z Bake Shop 101 (1 Semester)                            	Grades 10, 11, 12		        2.5 credits
 Do you love baking?  Learn the basics and science of preparing while baking a variety of baked goods in our culinary labs .  Learn how to “bake your own signature items” by tailoring ingredients to meet your tastes.  For those students who are not able to fit in a full-year culinary course,  this is a great opportunity to explore the art of baking in a one semester format.  This baking course will provide opportunities to learn baking skills, by preparing a variety of baked goods; but will also provide opportunities for personalization and making connections between science and the art of baking.  Students will develop a portfolio of their work and achievement of academic standards.
 
-CS2317Z Morning Eats: Breakfast and Brunch (Semester 1)    Grades 10, 11, 12                             2.5 credits
-Having a difficult time getting ready, eating, and getting to homeroom before the late bell?  Join us to cook and learn more about the most important meal of the day, as well as strategies for fitting it in so you can have more energy, give a boost to your academics, and contribute to your personal health triangle.  Research shows that many people miss out on this very important meal of the day, including the Arlington Youth Risk Behavior Survey (YRBS).  This is a great opportunity to learn how to plan and prepare a variety of traditional and updated breakfast and brunch recipes through our cooking labs, walking field trips, and engaging projects.  We will also learn how to plan, prepare, and host a brunch.  We will explore food preparation techniques, valuable menu planning skills, recipe resources, and how to personalize recipes for both personal taste and time.  Students will be evaluated through a  variety of activities, including cooking in the culinary labs, projects, and will leave class with a personalized cookbook of recipes and information that will be a valuable tool for now and  when you live on your own.
+CS2317Z Morning Eats: Breakfast and Brunch (1 Semester)    Grades 10, 11, 12                             2.5 credits
+Having a difficult time getting ready, eating, and getting to the homeroom before the late bell?  Join us to cook and learn more about the most important meal of the day, as well as strategies for fitting it in so you can have more energy, give a boost to your academics, and contribute to your personal health triangle.  Research shows that many people miss out on this very important meal of the day, including the Arlington Youth Risk Behavior Survey (YRBS).  This is a great opportunity to learn how to plan and prepare a variety of traditional and updated breakfast and brunch recipes through our cooking labs, walking field trips, and engaging projects.  We will also learn how to plan, prepare, and host a brunch.  We will explore food preparation techniques, valuable menu planning skills, recipe resources, and how to personalize recipes for both personal taste and time.  Students will be evaluated through a  variety of activities, including cooking in the culinary labs, projects, and will leave class with a personalized cookbook of recipes and information that will be a valuable tool for now and  when you live on your own.
 
 Young Adult Living, Design, and Consumer Education
-CS2318Z  Cooking On Your Own (Semester 1)          	  	Grades 10, 11, 12                             2.5 credits
+CS2318Z  Cooking On Your Own (1 Semester )          	  	Grades 10, 11, 12                             2.5 credits
 Do you only know how to cook Ramen and boxed mac and cheese? Is that how you’re planning to survive college and your early adulthood?  Join this class to learn how to plan, shop for, and cook fun, healthy, and inexpensive meals for you and your friends.  Students will discover tips and tricks for surviving on their own. This is a great opportunity to learn how to plan and prepare a variety of foods in our cooking labs, walking field trips, and engaging projects. We will explore food preparation techniques, valuable menu planning skills, recipe resources, and how to personalize recipes for both personal taste and time. Basic Budgeting and financial responsibility will also be explored and practiced.Students will be evaluated through a variety of activities, including cooking in the culinary labs, projects, and will leave class with a personalized cookbook of recipes and information that will be a valuable tool for now and  when you live on your own.
+
+CS2307Z Adulting with Technology I			Grades 10, 11, 12			        2.5 credits
+Adulting with Technology will integrate aspects of culinary classes with career, financial literacy, relationship and health skills with the technology students are already using in their daily lives. Students will explore apps and free websites to find the best methods for managing their resources throughout their adult lives. Adulting with Technology is a semester course that allows students to participate in a variety of group and independent learning activities including, labs, simulations, guest speakers, and hands-on activities.
 
 Interior and Fashion Design
 
@@ -852,17 +867,17 @@ Are you creative? Do you have a flair for design? Do you find yourself examining
 Fine Arts graduation requirements.**
 
 CS1921Z Interior and Fashion Design I 	Grades 9, 10, 11, 12		          5 credits
-The first half of this course enables students to explore their creativity in the field of Interior Design by focusing on color, the elements and principles of design, room arrangements and floorplanning. Students will gain an appreciation of the design fundamentals that form the foundation for which all design is judged. Opportunities for using computer aided design software will be available. Students will learn how to manipulate and apply the tools of design in a variety of situations in the home to create beautiful environments through hands-on projects, field trips, and guest speakers.  The second half of this course will focus on fashion where students will develop an awareness of the role of clothing, textiles and fashion in our daily lives. The social, psychological, cultural and environmental aspects of clothing will be explored along with marketing strategies.  Students will learn theory and will develop and apply their design skills through a variety of hands-on projects and experiences. They will explore the different career paths available to them in the fields of Interior and Fashion Design through field trips, guest speakers, and shadow experiences.
+The first half of this course enables students to explore their creativity in the field of Interior Design by focusing on color, the elements and principles of design, room arrangements and floorplanning. Students will gain an appreciation of the design fundamentals that form the foundation for which all design is judged. Opportunities for using computer aided design software will be available. Students will learn how to manipulate and apply the tools of design in a variety of situations in the home to create beautiful environments through hands-on projects, field trips, and guest speakers.  The second half of this course will focus on fashion where students will develop an awareness of the role of clothing, textiles and fashion in our daily lives. They will learn about major fashion designers, how to create mood boards, and what equipment they will need in order to make clothes. Students will learn how to read a sewing pattern and what shapes of clothes suit certain body types as well as the historical significance of various silhouettes. They will explore the different career paths available to them in the fields of Interior and Fashion Design through field trips, guest speakers.  Students will become familiar with the sewing machine through the creation of projects such as pillows, tote bags, and pajamas.
 
 CS2921Z Interior and Fashion Design II		Grades 10, 11, 12		          5 credits
-Students will apply more advanced design techniques as they create more complex room designs. 3-D home design software will be used to apply the knowledge and skills obtained in the introductory course for designing more sophisticated room environments. The study of background materials, lighting, flooring, furniture and architectural styles will be explored. Students will design their own line of clothing and accessories along with a marketing plan to promote their products using technology to facilitate this process.  Students will study merchandising and the various careers related to fashion, merchandising and design.  Students will continue to explore the various career paths available in these areas and will be provided an opportunity to participate in shadow experiences. Entry Criteria:  Successful completion of CS1920Z Interior and Fashion Design I.
+Students will apply more advanced design techniques through their study of color theory, trends, and costume and historical design.  They will select some of their own creative projects and participate in creative community service assignments.  Students will stay up to date on the fashion industry by learning about upcycling, famous designers, and fair industry practices.  Entry Criteria:  Successful completion of CS1920Z Interior and Fashion Design I.
 
 CS1922Z Interior & Fashion III   				Grades 11, 12 			          5 credits
 Students will apply more advanced design techniques, building upon the skills they learned in Interior & Fashion I and II.  They will create a portfolio, designing a fashion line which will include inspirational research, a mood board, sketching, and selecting fabrics.  Students will explore more advanced sewing techniques through their independent projects, as well as study various careers related to fashion, merchandising and design.
 Entry Criteria:  Successful completion of CS1920Z Interior and Fashion Design I, CS2921Z Interior and Fashion Design II, and Interior Fashion and Design teacher recommendation.
 
 CS1923Z Creative Textile Design- Curriculum A		Grade 10, 11, 12		        2.5 credits
-Do you enjoy creative, hands-on classes?  Want something to add to your fashion portfolio?  Do you enjoy exploring color and design to create a custom wardrobe accessory?  Then this semester long class is for you!! We’ll be combining technology with traditional methods, such as knitting and weaving, working with a variety of fibers in creating your own fabric. Use the principles of design, color theory, and your newly learned skills to create your own textiles that can be made into something to suit your personalized wardrobe or home accessory.
+Do you enjoy creative, hands-on classes?  Want something to add to your fashion portfolio?  Do you enjoy exploring color and design to create a custom wardrobe accessory?  Then this semester-long class is for you!! We’ll be combining technology with traditional methods, such as knitting and weaving, working with a variety of fibers in creating your own fabric. Use the principles of design, color theory, and your newly learned skills to create your own textiles that can be made into something to suit your personalized wardrobe or home accessory.
 
 Makerspace Course Offerings
 
@@ -871,7 +886,7 @@ Levels
 
 Heterogeneous
 Grades
-9-12
+10-12
 
 
 AC3610Z Art and Technology I Curriculum A
@@ -893,16 +908,16 @@ Advances in technology have lead to increasingly rapid changes at the beginning 
 
 The AHS Innovation and Design Thinking Certificate is a program that students elect to participate in to foster the skills related to effectively applying their STEAM based skills and knowledge. Students will apply brainstorming and problem solving techniques to their project-based school work and document the process in a web based portfolio. The program will culminate in an independent project their senior year, overseen by an advisor, solving a real world problem that the student has identified. Students who meet the requirements will receive an AHS Innovation and Design Thinking credential on their transcript and be recognized for their focused interest and effort in STEAM related fields.
 
-AC3610Z Art and Technology I Curriculum A 			Grades 9, 10, 11, 12 		        2.5 credits
+AC3610Z Art and Technology I Curriculum A 			Grades    10, 11, 12 		        2.5 credits
 This is a studio class that explores the intersection of contemporary art and technology. Students will be introduced to tools including microcontrollers, robotics, 3D printers, and the laser cutter to create original art that responds to issues relevant to modern culture and their personal experiences. Art and Tech I will focus on both contemporary and historical artists and art forms, tool training, developing skills, and making meaning through art making. Collaborative projects will be encouraged. Art and Technology I and II can be taken consecutively to fulfill the 5-credit Fine Arts Graduation Requirement.
 
-AC3611Z Art and Technology II Curriculum A 			Grades 9, 10, 11, 12 		        2.5 credits
+AC3611Z Art and Technology II Curriculum A 			Grades    10, 11, 12 		        2.5 credits
 This is a studio class that explores the intersection of contemporary art and technology. Students will be introduced to tools including microcontrollers, robotics, 3D printers, and the laser cutter to create original art that responds to issues relevant to modern culture and their personal experiences. Art and Tech II will also focus on both contemporary and historical artists and art forms, developing higher level skills, and making meaning through art making. Collaborative projects will be encouraged. Art and Tech II give students the opportunity to apply skills learned in Art and Technology I and to create personal artwork on a more independent basis. Art and Technology I and II can be taken consecutively to fulfill the 5-credit Fine Arts Graduation Requirement.  Prerequisite Art and Technology I
 
-AC3602Z Sculptural and Functional Woodworking - Curriculum A Grades 9, 10, 11, 12 	          5 credits
+AC3602Z Sculptural and Functional Woodworking - Curriculum A Grades 10, 11, 12 	          5 credits
 Sculptural and Functional Woodworking is a yearlong class that cultivates students’ skills related to designing and fabricating both functional and sculptural structures from wood. This class explores the relationship between functional and non-functional artworks through discussion and making. Students are introduced to relevant tools, skills, and projects that are presented in an open-ended way. This approach encourages creative problem solving and requires students to design and build one-of-a-kind objects. The projects are also presented in the context relevant to professional fields including carpentry, architecture, sculpture, and industrial design. This course fulfills the 5-credit Fine Arts Graduation Requirement. (Formerly called Wood Tech)
 
-AC3613Z Woodworking II - Curriculum A                                  Grades 10, 11, 12      	                      5 credits
+AC3613Z Woodworking II - Curriculum A                                  Grades 10, 11, 12      	                        5 credits
 Woodworking II is a yearlong class for students who have completed Woodworking I and are interested in further developing their skills. The assignments will include problem solving and completing building projects in the AHS community as well as creating original work. Permission of the instructor is required. Prerequisite: Wood Tech or Sculptural and Functional Woodworking
 
 DESIGN THINKING CERTIFICATE STUDENTS WILL
@@ -927,23 +942,30 @@ All students must take and pass Modern World History and United States History 1
 
  Levels
  Curriculum A
+Heterogenous
  Honors/Advanced Placement
 Grade
 9
-   SS1110Z
+    SS1110Z
    Modern World History
-   SS1105Z
+
+
+ SS1105Z
    Modern World History
 Grade
 10
    SS2210Z
    United States History I
+
+
    SS2105Z
    United States History I
 Grade
 11
    SS3110Z
    United States History II
+
+
 
    SS4000Z US History AP
 OR
@@ -955,8 +977,8 @@ The following link may be helpful when determining if Honors History is correct 
 
 History Requirement - Grade 9
 
-SS1110Z Modern World History - Curriculum A               	Grade 9                         	          5 credits
-SS1105Z Modern World History - Curriculum H               	Grade 9                 	          5 credits
+SS1110Z Modern World History - Curriculum A               	Grade 9                         	           5 credits
+SS1105Z Modern World History - Curriculum H               	Grade 9                 	           5 credits
 In this course, students study major historical events in World History from the 1700s to the present. We will explore the French Revolution and Napoleon, the Industrial Revolution, Imperialism, Nationalism, World War I and the Russian Revolution, the Interwar Years and Rise of Totalitarianism, World War II and the Holocaust, the Cold War, and colonial independence movements. We will also incorporate discussions of current events that connect to eras of the past.
 NOTE: Students choosing to take this course at the honors level will be responsible for completing a summer assignment due within the first week of school.
 
@@ -993,11 +1015,11 @@ SS7298Z American Law
 
 SS7386Z American Pop Culture
 
-SS7383Z History of Massachusetts
-
 SS7167Z Psychology and Human Behavior
 
 SS7390Z Social History Through Sports
+
+SS7392Z  Power and Protest
 Open to Grades 11 & 12 ONLY
 
 
@@ -1014,8 +1036,6 @@ SS7293Z The Economics of Personal Finance (Dual Enrollment with Syracuse) (semes
 
 SS7196Z Economic Ideas and Policy
 (Dual Enrollment with Syracuse) (semester)
-SS7388Z History of the Middle East
-
 SS7295Z  Intro to Economics
 
 SS7280Z Race, Society, and Identity
@@ -1033,7 +1053,7 @@ SS7804Z AP Human Geography 				Grades 10, 11, 12		          5 credits
 The AP Human Geography course is equivalent to an introductory college-level course in human geography. The course introduces students to the systematic study of patterns and processes that have shaped human understanding, use, and alteration of Earth's surface. Students employ spatial concepts and landscape analysis to examine socio economic organization and its environmental consequences. They also learn about the methods and tools geographers use in their research and applications. The curriculum reflects the goals of the National Geography Standards (2012).
 NOTE: Students choosing to take this AP level course will be responsible for completing a summer assignment and will be assessed within the first week of school.
 
-SS7802Z AP United States Government and Politics			Grades 11, 12   		          5 credits
+SS7802Z AP United States Government and Politics		Grades 11, 12   	                        5 credits
 U.S. Government and Politics is the study of the United States national government's policies, institutions, and foundations. Topics include, constitutional theories forming the basis of government, political beliefs and behaviors, political parties, interest groups, and the mass media, the Congress, presidency, bureaucracy, and Federal court system, public policy, and civil rights and civil liberties. This course gives students an analytical perspective on American government and politics that prepares them to take the AP U.S. Government and Politics exam.  The course is a rigorous, intensive, and is taught with college-level texts. Students will be required to take the AP Exam in May.
 NOTE: Students choosing to take this AP level course will be responsible for completing a summer assignment and will be assessed within the first week of school.
 
@@ -1065,18 +1085,10 @@ SS7154Z Current Issues: America & the World	Grades 11, 12 	      	    	        2
 Students will study important problems facing the global community and will conduct in-depth research and analysis of these topics. Half of the course will focus on domestic issues, such as, U.S. Gun Policy/Gun Control, National Politics, Criminal Justice Reform, Income/Wealth Inequality, among others. The other half of the course will be devoted to foreign issues, with primary focus being on U.S. regional foreign policy. Classroom activities will include class discussions, collaborative activities, individual projects, and Skype sessions with experts in key areas being studied. Assessments will take the form of writing assignments, which include formal papers and opinion pieces, as well as projects.
 * Students have the option of earning Honors Credit through more challenging research and project work.
 
-SS7806Z  Gender & Society   (Semester course)   	 	Grades 11, 12		                    2.5 credits
+SS7806Z  Gender & Society   (Semester course)   	 	Grades 11, 12		        2.5 credits
 This course will examine why gender equality is so important and yet so hard to achieve. The central aim is to foster critical reading and thinking about gender and the ways in which it is shaped by the interlocking systems of racism, sexism, ethnocentrism, heterosexism, ageism, ableism, colonialism and globalization; and how social movements have resisted these inequalities and worked to create new systems of change. We will scrutinize political, social and legal constructions of gender which continue to operate as though gender is binary, and explore a more inclusive approach which reflects a gender continuum within the context of entrenched power structures. Through understanding the construction of gender and its relationship with society, we will look for solutions to eradicate gender discrimination and gender-based violence.
 
-SS7383Z History of Massachusetts (Semester course)	Grades 10, 11, 12		        2.5 credits
-This course will explore the history of the state of Massachusetts starting with a history of the native tribes of Massachusetts pre-colonization and the development of English Colonies of Plymouth and Massachusetts Bay and their growth through the 17th and 18th Centuries.  The course will explore Massachusetts’ role during the American Revolution as well as the Constitution and Federal Periods.  Next, students will study Massachusetts during the 19th Century with a focus on the rise of industrialization, immigration and the Massachusetts contributions during the Civil War.  Concluding the course will be a study on the Commonwealth in the 20th and 21st Centuries with studies in the modernization of the state’s economy focusing on the tech industry, the development of the state infrastructure, new patterns of immigration and Massachusetts’ role in the United States as a whole.
-*Students have the option of earning Honors Credit through more challenging research and project work.
-
-SS7388Z History of the Middle East (Semester course)	Grades 11, 12			        2.5 credits
-This course will discuss the developments in the Middle East from the early 20th century to the present. It will discuss the rise and retreat of Arab nationalism, the problems of internal cohesion of the Arab states, issues of religion and state, and the evolution of Islamist politics. It will also focus on the evolution of the Arab-Israeli conflict and its impact on the region and will conclude with an in depth analysis of the “Arab Spring” by placing these contemporary revolutionary events in their historical context.
-*Students have the option of earning Honors Credit through more challenging research and project work.
-
-SS7295Z Introduction to Economics (Semester Course)	 Grades 11, 12   	        2.5 credits
+SS7295Z Introduction to Economics (Semester Course)		 Grades 11, 12   	        2.5 credits
 Students will engage in a study of basic micro and macro economic principles to enhance their understanding of capitalism to help them become strong citizens and make astute financial decisions. In particular, they will examine the powers of the Federal Reserve and federal government as well as scrutinize the economic theories employed by Democratic and the Republican parties.  Then the students will create a business to enhance their understanding of microeconomic concepts.   The class concludes with an examination of the role of the consumer; here students learn personal finance life skills such as making a budget, learning wise shopping strategies, learning how to achieve a strong credit score, how to avoid credit card debt, and how to save for retirement.
 *Students have the option of earning Honors Credit through more challenging research and project work.
 
@@ -1093,6 +1105,11 @@ SS7390Z Social History Through Sports        	Grades 10, 11, 12 		        2.5 cr
 (Semester course)
 Students will be examine historical social issues such as race, gender, political unrest, war, and religion through the lens of sports.  The course will utilize a case study approach to give students a detailed sense of the historical time period, the social issue, its relationship to a specific sport, and the legacy of the social issue/sport the continues through today.  Possible topics include:  breaking the color barrier (baseball), religious rights and war (boxing), racial bias & the judicial system (football), gender inequality (tennis), labor unions and strikes (baseball), and human rights (cricket and rugby).   By the end of the course, students will see sports beyond fandom, competition, and athletic skill; rather they will understand how sports have functioned as both a reflection of social issues, but also a vehicle to move them forward.
 * Students have the option of earning Honors Credit through more challenging research and project work.
+
+SS7392Z  Power and Protest 				 Grades 10, 11, 12		        2.5 credits
+The course will examine the history of  protest in the United States while examining specific case studies and their impact on society. We will look at the ideological, political, and economic origins of the protest and their contributions to the larger social movements. We will also explore the rhetoric and tactics employed by the movements and the responses to the movements by the general public and government.  Some case studies we will consider include: the Seneca Falls Convention, the Montgomery Bus Boycott, the Stonewall Inn riots, Occupation of Alcatraz, the Million Man March, Occupy Wall Street, March for Our Lives, Dakota Pipeline protest, and Black Lives Matter.
+* Students have the option of earning Honors Credit through more challenging research and project work.
+
 
 Mathematics
 The course sequences in the chart below represent the traditional progression at each level. While students may take courses in any grade, they must follow the recommended sequence.  For example, a student may take Algebra I as a senior or Calculus as a sophomore, depending upon preparation. However, students must complete Algebra I, Geometry, and Algebra II, or their equivalent, before advancing to other math courses. Note that the courses listed under “Electives” do not satisfy mathematics distribution graduation requirements.
@@ -1137,7 +1154,7 @@ MA3321Z Algebra II - Cur. B
   11 & 12
  MA5002Z Linear Algebra
  MA5003Z Introduction to
-                Number Theory
+                  Number Theory
 
 
 
@@ -1268,18 +1285,16 @@ MA7419Z  Computer Science Discoveries - Cur. A (Grades 9-12)
 Semester Courses
 
 MA7420Z  Video Game Development - Honors (Grades 10-12)
+    This course will be offered again during the 2022-2023 school year.
 
 MA7421Z Advanced Robotics - Honors (Grades 10-12)
+This course will be offered again during the 2022-2023 school year.
 
 MA7424Z  Artificial Intelligence (A.I.) with Python - Honors (Grades 10-12)
-Offered again during the 2021-2022 School Year
 
 MA7518Z JavaScript and Web Development - Honors  (Grades 10-12)
-Offered again during the 2021-2022 School Year
 
 IN9915Z Independent Study in Computer Science
-
-
 Computer Aided
 Drafting and Design
 (C.A.D.D.)
@@ -1306,8 +1321,6 @@ will inform the teacher in September.
 
   MA7246Z Intro to 3D
   Printing
-
-
 
 
 The following electives are offered within the Mathematics Department. While offered as listings in the
@@ -1354,20 +1367,20 @@ This course focuses on applying advanced concepts learned during the AP course t
 Suggested Entry Criteria: Successful completion of AP Computer Science A.
 
 MA7424Z  Artificial Intelligence with Python - Honors	Grades 10-12	        2.5 credits
-This course will be offered again during the 2021-2022 school year.
 Learn one of the computer languages voted most fun to learn and use. It’s also one of the languages that many college computer science departments are using in their introductory course. We will learn the basics of this scripting language, explore artificial intelligence and have time to explore other high level concepts as driven by student projects. Students will work independently and in groups to create their projects. Computers and online tools will be provided for all students, but the environment that we will be using is available for use at home as well.
 Suggested Entry Criteria: Open to students that either complete Computer Science Principles or have experience with the basics of computer programming.
 
 MA7518Z JavaScript and Web Development - Honors	Grades 10-12	        2.5 credits
-This course will be offered again during the 2021-2022 school year.
 Learn to make websites come alive with interactive components. This course will focus on individual students creating interactive websites. Create your own in-browser games, simulations and informational websites. The course will introduce the students to a broad range of computer science topics including: html, css, and JavaScript. We will develop full websites and JavaScript enabled elements within them. Class is designed to let students combine their interests in computer science and other endeavors to create projects that expand both. Computers and online tools will be provided for all students, but the environment that we will be using is available for use at home as well.
 Suggested Entry Criteria: Open to students that either complete Computer Science Principles or have experience with the basics of computer programming.
 
 MA7420Z Video Game Development - Honors	Grades 10-12	        2.5 credits
+This course will be offered again during the 2022-2023 school year.
 Learn to program and have fun doing it. We will use the Java programming language to develop video games and simulations. This course will feature a number of independent projects and is appropriate for students just starting to learn how to program and for students who already have experience and want to hone their skills on projects of their choice. Students will work independently and in groups to create their projects. Computers and online tools will be provided for all students, but the environment that we will be using is available for use at home as well.
 Suggested Entry Criteria: Open to students that either complete Computer Science Principles or have experience with the basics of computer programming.
 
 MA7421Z Advanced Robotics - Honors	Grades 10-12	        2.5 credits
+This course will be offered again during the 2022-2023 school year.
 Build your own robots! Program them to do creative and useful tasks! We will be using Lego EV3 kits and extending them with the Python programming language to develop advanced solutions for robotic tasks. This class goes beyond the standard Lego development environment to really delve into what robots can do for us and how to get them to do it with a modern and growing computer language. This course is designed for students who have no previous programming experience to advanced students who have programmed robots and want to advance their knowledge of computer science through independent projects. Computers and online tools will be provided for all students, but the environment that we will be using is available for use at home as well.
 Suggested Entry Criteria: Open to students that either complete Computer Science Principles or have experience with the basics of computer programming.
 
@@ -1454,7 +1467,7 @@ This Symphonic Band course is open to all instrumentalists. Students will explor
 PA7220Z Jazz Band - Curriculum A            	Grades 9, 10, 11, 12	        2.5 credits
 The Jazz Band course is open to all qualified instrumentalists. Students will explore various musical styles from early Jazz to Latin and fusion through such standards as playing with expression, playing with technical accuracy and demonstrating well-developed ensemble skills.  Students will also be encouraged to improvise in different styles.  All Students electing this course must be members of the Symphonic Band, String Orchestra, or Mixed Chorus.  Required Entry Criteria: Audition
 
-PA7228Z Concert Choir - Curriculum A				Grade 9			          5 credits
+PA7228Z Concert Choir - Curriculum A			Grade 9			           5 credits
 This choir is open to anyone in grade 9. We learn healthy singing techniques, a variety of music literature and repertoire, and perform in concerts at the high school auditorium, Town Hall and in community events and/or festivals when able. The students will sing daily, practice these musical techniques, learn to sight read, learn foundational theory and perform in concerts to expand their musical experience. Attendance at all performances is a requirement of this course.
 
 PA7231Z Concert Choir (bi-weekly): For an option that meets twice a week opposite your PE course, please use the course.
@@ -1479,7 +1492,7 @@ Please note that Introduction to Music Technology is a full year class, while th
 
 PA8200Z Introduction to Music Technology 	Grades 9, 10, 11, 12        	          5 credits
 - Heterogeneous
-This course is required before a student may take any other in music technology. Students will be introduced to the study of music technology, the equipment, and to the programs offered in our lab (including Band-in-a-Box, Aurelia Ear Training, Sibelius Notation software, and Music Theory tools). Instrument and equipment care will be included. Students will complete ‘mini’ projects in each of the programs.
+This course is required before a student may take any other course in music technology. Students will be introduced to the study of music technology, the equipment, and to the programs offered in our lab (including Band-in-a-Box, Aurelia Ear Training, Sibelius Notation software, and Music Theory tools). Instrument and equipment care will be included. Students will complete ‘mini’ projects in each of the programs.
 
 PA9004Z  Music and Sound for Film - Heterogeneous	Grades 10-12	                     	        2.5 credits
 Learn the craft and history of great music and sound in Cinema. Apply your learning in creative projects, practicing the art of film scoring, Projects focus on creating the music and soundscapes that bring films to life including environmental sounds or "Foley" and sound effects.
@@ -1488,12 +1501,12 @@ Culminating projects will be created in association with ACMI, presented for the
 PA0003Z Songwriting and Production - Heterogeneous	Grades 10-12		       	        2.5 credits
 The craft and business of songwriting as a semester course. In this course, students learn to create demos of their songs using a combination of recorded audio and synthesized/sampled textures in order to fit their needs. They use virtual instruments; learn to mix multiple audio sources; create semi-professional level mixes that incorporate groups, effects and effect chains; and more. Students create a personal workflow for composition, demo production and artist management.
 
-PA9005Z Mixing and Mastering - Heterogeneous 		Grades 10-12		  	        2.5 credits
+PA9005Z Mixing and Mastering - Heterogeneous 		Grades 10-12		        2.5 credits
 Project centered course with a focus on using digital processing to improve and restore recordings to their full potential. Learn how EQ, compression, filters and delay effects work together in music and sound production. Mix and master your own songs or the songs of others recorded in our music studio. Before/after projects in your portfolio will demonstrate practical results of what you have learned.
 
 PA9006Z Sound Design, Synthesis and Electronic Music Programming	Grades 10-12	        2.5 credits
         Heterogenous
-Project centered course for the electronic musician or sound designer. The course will focus on creating customized sound pallets, with various software synthesizers. Students engage in learning the fundamentals of synthesis, while using and even creating your own music “plugins”.
+Project centered course for the electronic musician or sound designer. The course will focus on creating customized sound pallets, with various software synthesizers. Students engage in learning the fundamentals of synthesis, while using and even creating their own music “plugins”.
 
 PA9007Z Digital Music Portfolio I - Heterogeneous	Grades 11, 12 only		        2.5 credits
 For those who might major or minor in music performance or production at the college level or seek business internships. Build your own digital music portfolios including audition tapes, and contest entries. Final portfolio is an important element in starting a musical career and suitable for college admissions, applications and interviews.
@@ -1508,6 +1521,7 @@ Grades 9: Students are required to take the 9th Grade Wellness Program.
 Grades 10: Students are required to take two different quarter electives (preferably in the same semester). Students are not allowed to take electives marked for Grade 11 and 12 only.
 Grades 11 and 12: Students are required to take two quarter electives by the time of their graduation.  This may entrail taking two quarter electives during your junior year, or one junior and one senior year. Spaces may be limited in some electives. Seniors are given preference. Grade 12 students cannot enroll in Quarter 4 electives.
 There is a 4 absence allowance for all Quarter Elective classes. If a student surpasses the 4 absence allowance they must enroll in another elective to earn PE Graduation requirement credit. Students may not add a quarter elective after the second class in quarter 1 and the first class in quarters 2, 3 and 4.
+*See above for details specific to the class of 2022, Covid-19 and their requirements.
 Levels
 Courses
 Grade 9
@@ -1525,7 +1539,7 @@ PE5655Z Adaptive Physical Education Leader (2.5 credits)
 PE7021Z Nutrition (2.5 credits)
 PE7007Z Biking (2.5 credits)
 PE7026Z Relaxation (2.5 credits)
-PE7804Z Indoor/Outdoor Rock Climbing (2.5 credits)
+PE7804Z Indoor/Outdoor Rock Climbing (2.5 credits) On hold for 2021-22 school year
 PE7020Z Recreational Sports (2.5 credits)
 PE7660Z Wilderness First Aid (2.5 credits)
 PE7918Z  Basic Physical Self Defense (for students who identify as female/non-binary) (2.5 credits)
@@ -1549,7 +1563,7 @@ This introductory course includes regular physical activity with a core of adven
 Electives
 
 PE3725Z Personal PE Contract (Semester 1 or 2) 	Grade 12 only 			        2.5 credits
-Personal PE Contract is an independent study designed for grade 12 students who are taking a full course load and cannot fit a Physical Education Elective into their schedule. Students fulfill their PE requirement by participating in an extra­curricular, supervised, physical activity. The minimal requirement for fulfilling the contract is 30 hours of Physical Activity as well as other mandatory assignments that coincide with their logged physical activity. In order for students to take the PE Contract they must demonstrate a need for the course by taking a full schedule of classes and get instructor consent.
+Personal PE Contract is an independent study designed for grade 12 students who are taking a full course load and cannot fit a Physical Education Elective into their schedule. Students fulfill their PE requirement by participating in an extracurricular, supervised, physical activity. The minimal requirement for fulfilling the contract is 30 hours of Physical Activity as well as other mandatory assignments that coincide with their logged physical activity. In order for students to take the PE Contract they must demonstrate a need for the course by taking a full schedule of classes and get instructor consent.
 
 PE7661Z Personal Fitness   					Grades 10, 11, 12 		        2.5 credits
 This course offers instruction and practice in various fitness components such as cardio­respiratory endurance, muscular endurance, muscular strength, and flexibility. Activities include strength training, aerobic training, cardio­respiratory fitness, fitness games, yoga, nutrition, injury prevention and fitness testing. Personal training and fitness plan development are offered in this course.
@@ -1594,7 +1608,8 @@ PE7026Z Relaxation  	 					Grade 10, 11, 12              	        2.5 credits
 This course will offer techniques and strategies for relaxation and mindfulness as a means to reduce stress. The class will also examine the psychological and physiological effects of stress, the assessment of individual risk factors that relate to stress, and strategies to reduce stress and take control over stress levels.
 
 PE7804Z Indoor/Outdoor Rock Climbing 			Grades 10, 11, 12 		       2.5 credits
-This course offers students the opportunity to participate in a series of high ­impact challenges on our indoor and outdoor challenge course. With a focus on safety, students will learn how to use modern climbing equipment to safely ascent high climbing elements, rock faces, climbing walls, and other various high challenge activities. A focus of the course will be on personal challenge as well as on safety and support of others. (Please note: the course meets during the 1st and 4th Quarter and is offered to Grade 10 and 11 only in Quarter 4).
+On hold for 2021-22 school year
+This course offers students the opportunity to participate in a series of high ­impact challenges on our indoor and outdoor challenge course. With a focus on safety, students will learn how to use modern climbing equipment to safely ascend high climbing elements, rock faces, climbing walls, and other various high challenge activities. A focus of the course will be on personal challenge as well as on safety and support of others. (Please note: the course meets during the 1st and 4th Quarter and is offered to Grade 10 and 11 only in Quarter 4).
 
 PE7020Z Recreational Sports 					Grade 10, 11, 12		        2.5 credits
 Students in this course will participate in activities that are more individually based such as badminton, table tennis, tennis, etc. and activities that are team based but recreationally focused. (please note; the course meets during the 1st and 4th Quarter and is offered to Grade 10 and 11 only in Quarter 4).
@@ -1614,7 +1629,7 @@ This course is designed for students who would like to learn  self defense and c
 PE7919Z Basic Physical Self Defense (Men/non-binary)	Grades 10, 11,12	  	        2.5 credits
 This course is designed for students who would like to learn  self defense and conflict reduction skills appropriate for those identifying as male or non-binary . The course has its foundations in education and awareness. The course includes lecture, discussion and self-defense techniques.
 
-PE7664Z Drugs and the Body				Grades 10, 11 and 12			        2.5 credits
+PE7664Z Drugs and the Body				              Grades 10, 11 and 12	                     2.5 credits
 This course will dive deeper into the effects of drugs, both legal and illegal, and how they affect the body. The course will build off of the Grade 9 curriculum and offer a more in-depth look at their effects on the human body, behavior, psychology, and experience.
 
 SCIENCE
@@ -1642,7 +1657,10 @@ Required with a choice of
 Grade 12
 Choice of
 Honors Physical Science
+
 Physical Science
+
+
 Honors Biology
 Biology
 Honors Chemistry
@@ -1670,10 +1688,10 @@ Science Electives*
 
 Physical Science Course Offerings
 
-SC1105Z Physical Science Honors         	Grade 9                      5 credits
-This is an honors level course for ninth grade students with a strong interest and ability in science and mathematics. The course is designed to introduce students to the relationships that exist between matter and energy. Through meaningful problem solving, laboratory investigations, and STEM projects, students will apply physical laws in order to become aware of the strong relationship between science and technology and between the process and content of science. Areas of concentration will include motion, forces, conservation laws, heat, electricity and magnetism, waves, and light and sound. Students will be prepared to successfully complete the Introductory Physics MCAS test. Suggested Entry Criteria: Completed Algebra and teacher recommendation.
+SC1105Z Physical Science Honors         	Grade 9           	           5 credits
+This is an honors level course for ninth grade students with a strong interest and ability in science and mathematics. The course is designed to introduce students to the relationships that exist between matter and energy. Through meaningful problem solving, laboratory investigations, and STEM projects, students will apply physical laws in order to become aware of the strong relationship between science and technology and between the process and content of science. Areas of concentration will include motion, forces, conservation laws, heat, electricity and magnetism, waves, and light and sound. Students will be prepared to successfully complete the Introductory Physics MCAS test and be better prepared for an AP science track. Suggested Entry Criteria: A- or better in eighth grade science and algebra, teacher recommendation.
 
-SC1115Z Physical Science - Curriculum A	Grade 9	          5 credits
+SC1115Z Physical Science - Curriculum A	Grade 9	           5 credits
 This course is designed to introduce students to the relationships that exist between matter and energy. Through meaningful problem-solving and laboratory investigations, students will apply physical laws in order to become aware of the strong partnership between science and technology and between the process and product of science. Areas of concentration will include motion, forces, conservation laws, heat, electricity and magnetism, waves, and light and sound. This course includes a wide variety of laboratory demonstrations and activities. Students will be prepared to successfully complete the Introductory Physics MCAS test.
 
 Biology Course Offerings
@@ -1702,7 +1720,8 @@ Physics Course Offerings
 SC4116Z Physics*      						Grade 11, 12			          5 credits
 This physics course is for highly motivated students with strong scientific interest and mathematical ability. Students should be able to handle abstract ideas both conceptually and quantitatively, including their application to new situations. The major topics include force and motion, vectors and projectiles, energy and momentum, electricity and magnetism, and waves and light.
 Suggested Entry Criteria: Algebra 2 (may be taken concurrently). Teacher Recommendation
-**Students have the option of earning Honors Credit through more challenging research and project work.
+**Students have the option of earning Honors Credit.
+
 Advanced Placement Courses
 
 The following courses are designed to offer an introductory college science experience and meet the requirements of the College Board. These courses are offered as the student’s second high school exposure to the content, not as a preliminary course in the subject. The College Board has approved the curriculum and textbooks for these courses. AP students are required to take the College Board's National Advanced Placement examination in May.
@@ -1711,12 +1730,12 @@ SC4010Z Advanced Placement Biology AP 	Grades 11, 12		                      5 cr
 The Advanced Placement Biology Course is designed to be the equivalent of a college introductory biology course usually taken by biology majors during their freshman year.  It provides students with the conceptual framework, factual knowledge, and analytical skills necessary to deal with the rapidly changing science of biology. As suggested by the College Board in its Advanced Placement Course Description, the course is divided into three major topic areas: 1) molecules and cells, 2) genetics and evolution, and 3) organisms and populations. Laboratory experiences comprise approximately 40% of the grade, and students are involved in original research during the year.  In addition to reading from a college text, students will be required to read articles from outside sources including scientific journals.
 Suggested Entry Criteria: B or better in Honors Biology or A- or better in Biology, Successful completion of chemistry is highly recommended, teacher recommendation.
 
-SC4002Z Advanced Placement Chemistry AP			Grade 12			          5 credits
+SC4002Z Advanced Placement Chemistry			Grade 12			          5 credits
 Advanced Placement Chemistry is designed to be the equivalent of a college introductory chemistry course usually taken by science majors during their freshman year. Students utilize a college textbook and the course moves at a brisk pace. The topics covered are those suggested by the College Board. Laboratory experiments with formal lab reports are a significant portion of the class and are reflected as such in the course grade.
 Suggested Entry Criteria: “B” or better in Honors Chemistry or “A” in Chemistry; Successful completion of Pre-calculus is highly recommended, teacher recommendation.
 
 
-SC4007Z Advanced Placement Physics 1 AP  			Grades 11, 12 			          5 credits
+SC4007Z Advanced Placement Physics 1   		Grades 10, 11, 12 			           5 credits
 This course is designed to be the equivalent of an algebra-based course in introductory college physics.  The content of the course corresponds to the requirements of the College Board Advanced Placement Physics 1 curriculum. This involves Newtonian mechanics (including angular and rotational), work, energy, power, mechanical waves, sound, and electric circuits. The pace of the course is demanding in terms of both content and problem-solving. Students entering this class should be highly motivated in science and willing to apply themselves to studying an advanced curriculum. There will be an integrated lab component to the course and long-term STEM projects will be assigned both semesters.
 Suggested Entry Criteria: Algebra 2
 
@@ -1741,13 +1760,13 @@ Suggested Entry Criteria: B- or better in Biology
 
 SC7258Z Astronomy                 				Grades 11, 12                  	        2.5 credits
 This half-year course provides a comprehensive introduction to astronomy, from the history of this early science to cutting-edge theories about the universe and its origin. Students will examine the Earth's place in space and the relationships among the Earth, Moon, and Sun. Our solar-system survey will encompass the planets, their moons, asteroids, comets, and the microscopic particles that give rise to the northern lights. The course will then take us step by step into the universe beyond the solar system: stars, galaxies, and the cosmos as a whole. Basic chemistry and physics are integrated into the course, as are high-school-level algebra and basic geometry. Students will also explore the concepts of space travel and rocketry by designing, building, and testing their own spacecrafts in Kerbal Space Program.
-* Students have the option of earning Honors Credit through more challenging exercises, tests, and lab work. (not offered in the 2020-2021 school year)
+* Students have the option of earning Honors Credit through more challenging exercises, tests, and lab work.
 
 SC7277Z Oceanography					Grades 11, 12			        2.5 credits
-This half-year course, offered each semester,  provides an introduction to oceanography, including origin of the Earth and its oceans, the geography and geology of ocean basins, and plate tectonics. Students examine the chemistry of ocean water, marine sediments, and saltwater organisms and their unique adaptations. Waves and tides provide examples of the physical science supporting oceanography. Marine habitats are studied as examples of ecosystems impacted by the ocean environment. The course includes term research projects and one or more field trips. Basic principles of chemistry and physics are integrated into the course, as they relate to the study of Oceanography.
-* Students have the option of earning Honors Credit through more challenging research and project work. (not offered in the 2020-2021 school year)
+This half-year course, offered each semester,  provides an introduction to oceanography, including the origin of the Earth and its oceans, the geography and geology of ocean basins, and plate tectonics. Students examine the chemistry of ocean water, marine sediments, and saltwater organisms and their unique adaptations. Waves and tides provide examples of the physical science supporting oceanography. Marine habitats are studied as examples of ecosystems impacted by the ocean environment. The course includes term research projects and one or more field trips. Basic principles of chemistry and physics are integrated into the course, as they relate to the study of Oceanography.
+* Students have the option of earning Honors Credit through more challenging research and project work.
 
-SC7268Z Environmental Science				Grades 11, 12			          5 credits
+SC7268Z Environmental Science				Grades 11, 12		           5 credits
 Environmental science focuses on the study of how human activity affects habitats and the relationships among organisms and the natural world. The course will include the detailed study of the principles of ecology, including several hands-on investigations and research projects and papers. Students will investigate the earth’s natural resources, including biodiversity, soil, land, air, water, and energy, with the goal of understanding the delicate balance of life on earth. Problems such as pollution, overpopulation, and extinction are studied in a global context, and students investigate a wide range of solutions based on the in-depth study of environmental science. The principles of chemistry and physics are integrated into the course, as they relate to environmental science.
 Suggested Entry Criteria: B- or better in Biology.
 * Students have the option of earning Honors Credit through more challenging research and project work.
@@ -1755,28 +1774,21 @@ Suggested Entry Criteria: B- or better in Biology.
 SC1292Z Engineering                           			Grades 11, 12 			          5 credits	This course will utilize the Engineering the Future curriculum developed by the Museum of Science (Boston), with particular emphasis on engineering design, manufacturing, construction, written communication, and mathematics. The school resources available in the technology resource center will be utilized for collaborative project design and construction, integrating concepts across the disciplines in the school's Maker space. Students work in a classroom and workshop setting with woodworking materials, metals, and laboratory equipment. By applying the mathematics of engineering and completing hands-on design projects, students learn about the different roles of mechanical, fluid and electrical engineering in the modern world. The course helps students pursuing a technical career to understand the many ways in which they may engineer the world of the future.
 *Students have the option of earning Honors Credit through more challenging research and project work.
 
-NEW Science Elective Courses (All ½ year)
+Science Elective Courses (All ½ year)
+
 SC7286Z Weather and Climate                          		Grades 10, 11, 12 		        2.5 credits
-With a planet in extreme environmental disruption due to the increasing effects of Global Climate Change, it has never been more important to study the science of weather and climate on planet Earth. This half-year course of introductory meteorology will explore how the orbital mechanics of the Earth alter the way it absorbs energy from the Sun, thereby causing the air and water on the surface of the Earth to cycle and cause the various weather phenomena we experience throughout our lives. In addition to learning about the complex global climate systems that influence our weather, students will learn the basics of observing the environment around them to forecast local weather to come. Students will be expected to collect field samples and measure weather conditions numerous times throughout the course, so prepare to be outside throughout the seasons both in class and for homework.
+With a planet in extreme environmental disruption due to the increasing effects of Global Climate Change, it has never been more important to study the science of weather and climate on planet Earth. This half-year course of introductory meteorology will explore how the orbital mechanics of the Earth alter the way it absorbs energy from the Sun, thereby causing the air and water on the surface of the Earth to cycle and cause the various weather phenomena we experience throughout our lives. In addition to learning about the complex global climate systems that influence our weather, students will learn the basics of observing the environment around them to forecast local weather to come. Students will be expected to collect field samples and measure weather conditions numerous times throughout the course, so prepare to be outside throughout the seasons both in class and for homework. (not offered in the 2021-2022 school year)
 * Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
 
 SC7288Z Physiology of Exercise & Activity			Grades 10, 11, 12 		       2.5 credits
-This course examines the physiological effects of exercise and activity with an emphasis on humans. Major topics include energy use & nutrition, the muscular, cardiovascular, and respiratory adaptations across the age span and special environments (high and low altitude, heat and cold). Must be currently enrolled or have completed biology
-* Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
-
-SC7290Z Philosophy of Science (Spring 2021) 		Grades 10, 11, 12 		        2.5 credits
-The good results of science are indisputable. But sometimes discovery is based on ideas that are found to be a bit off the mark. Newton’s Laws were taken to be absolute, then Einstein remade physics from the ground up. Yet still, engineers, architects, athletes, and surveyors all rely on Newton’s laws. Science is our major current attempt at a self-correcting body of knowledge, but how does that really work? What must we assume, in order to do science? Is science a handy set of beliefs and processes that tend to give us the results we seek? Or is it a matrix of ideas that directly reflect the world as it is?  Can science represent the world with complete accuracy? If not, what does it take for us to consider an idea justified enough to believe it or call it “true”? We will be exploring the development of science in the Western world, mostly in a historical perspective, and try to come to grips with some of these questions. It is fervently to be hoped that this deeper perspective will increase students’ appreciation of science, while decreasing the sense of oracular mystery that can surround it.  This course does not fulfill the science graduation requirement.
-* Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
-
-SC7292Z Introduction to Philosophy (Fall 2020) 		Grades 10, 11, 12 		        2.5 credits
-About 2,500 years ago, a thread of analysis of ordinary experience arose which has continued to this day.  My thumbnail definition of philosophy is: The study of those questions that we have to assume we know the answer to just to conduct our daily lives. Examples of such questions include: How do I know when I know something? What kind of society should we build? What makes a society better than another? What obligations do I have to my family, my friends, to strangers, or to the state? Are we able to choose our actions freely, or does everything that happened to us, combined with the laws of physics, close off all decisions I can think of, except one? Does the universe care about us, or are we just kind of here?  All these questions have been addressed over the centuries, and we still do not have universal agreement on the answers. We will look into some prominent answers from the past, and wrestle with the questions ourselves. Philosophy is difficult to study because it is a debate, not a single body of agreed-upon answers. It is also difficult to study because we really, really like our own views.This course does not fulfill the science graduation requirement.
+This course examines the physiological effects of exercise and activity with an emphasis on humans. Major topics include energy use & nutrition, the muscular, cardiovascular, and respiratory adaptations across the age span and special environments (high and low altitude, heat and cold). Must be currently enrolled or have completed biology.  (not offered in the 2021-2022 school year)
 * Students have the option of earning Honors Credit through more extensive weather sampling and reporting, tests, and projects.
 
 Visual Arts
 
 Visual art courses offer a wide variety of disciplines and media and allow students to explore and strengthen their creativity and their creative problem solving skills.  The curriculum in all courses has been designed to maximize the development of certain thinking skills that lead to expressive, personal and independent original work.  Students are encouraged to think, write and speak critically about their own work, the work of other students and the work of contemporary and historical artists and art forms from all over the world.
 
-The curriculum is aligned with the Massachusetts Visual Arts Frameworks and with the latest research in the art educational field.  All courses fulfill the AHS Fine Art 5 credit graduation requirement (or 2.5 credits for half-year visual art courses). Please note that prerequisites (suggested entry criteria) for certain visual art courses can be waived with the permission of the instructor or the Director of Visual Art.
+The curriculum is aligned with the Massachusetts Visual Arts Frameworks and with the latest research in the art educational field. The curricula in all courses have been broadened recently to increase student exposure to diverse artists and world cultures and to encourage students to use their artistic voices to address social issues that are personally important to them. All courses fulfill the AHS Fine Art 5 credit graduation requirement (or 2.5 credits for half-year visual art courses). Please note that prerequisites (suggested entry criteria) for certain visual art courses can be waived with the permission of the instructor or the Director of Visual Art.
 
  Levels
 Curriculum H
@@ -1789,7 +1801,7 @@ Grades 10-12
 
 AC2206Z  Studio Art *  (full year)
 AC3588Z  Digital Photography I * (full year)
-AC7830Z  Mixed Media*  (full year)
+AC7832Z  Mixed Media*  (full year)
 AC7822Z  Painting I * (half year)
 AC7823Z  Painting II*  (half year)
 AC3600Z  Ceramic Sculpture and Pottery I * (half year)
@@ -1798,7 +1810,10 @@ AC7825Z  Drawing I * (half year)
 AC7826Z  Drawing II* (half year)
 AC3601Z  Sculpture * (half year)
  * 10, 11, and 12 graders can take these courses without having taken Foundations in Studio Art but permission from the instructor or the Director of Visual Art is required
-** incoming 9th graders can apply to take the full year courses listed above (bold faced). Contact the Director of Visual Art or an art teacher.
+** incoming 9th graders can apply to take the full year and half year courses listed above (bold faced). Contact the Director of Visual Art or an art teacher.
+AC3610Z Art and Technology I Curriculum A
+AC3611Z Art and Technology II Curriculum A
+AC3602Z Sculptural and Functional Woodworking - Curriculum A
 Grades
 11 &  12
 AC3105Z  Portfolio Preparation
@@ -1810,16 +1825,14 @@ AC4002Z  Advanced Placement Art and Design
 
 
 
-
-
 AC1206Z Foundations in Studio Art - Curriculum A                Grades 9, 10, 11, 12                              5 credits
-This visual art course, “Foundation in Studio Art” is the best entry point to all of our studio art courses. This course is designed to increase students’ understanding of the potential of visual art to communicate personal feelings and ideas. A rich variety of media are introduced through projects that emphasize both creativity and skill building. Students study observational and imaginative drawing, painting, printmaking, digital imaging, and sculpture, including working with clay, wire, wood, and other 3D materials. World cultures and the work of both historical and contemporary artists are used to inform and inspire student art making. The course is designed for students who might continue studying visual art in high school but also for students who may not take a course in visual art again.  This course fulfills the 5-credit Fine Arts Graduation Requirement.
+For many students, this visual art course, “Foundation in Studio Art” is the best entry point to all of our studio art courses. This course is designed to increase students’ understanding of the potential of visual art to communicate personal feelings and ideas. A rich variety of media are introduced through projects that emphasize both creativity and skill building. Students study observational and imaginative drawing, painting, printmaking, digital imaging, and sculpture, including working with clay, wire, wood, and other 3D materials. World cultures and the work of both historical and contemporary artists are used to inform and inspire student art making. The course is designed for students who might continue studying visual art in high school but also for students who may not take a course in visual art again.  This course fulfills the 5-credit Fine Arts Graduation Requirement.
 
 AC2206Z Studio Art * - Curriculum A         			Grades 10, 11, 12                                5 credits
 Studio Art is designed to increase students’ independence and confidence in their artmaking. Emphasis is placed on individualized instruction and on the ability of students to make informed decisions about materials and themes. Students study a range of historical periods and contemporary art styles. Students are challenged to use a rich variety of 2D and 3D media to explore complex ideas in visual art. Artwork is regularly shared, critiqued and exhibited and a sketchbook is maintained throughout the year. This course fulfills the 5 credit Fine Arts Graduation Requirement.
 Suggested Entry Criteria: Foundations in Studio Art  or *permission of the instructor and this applies to 9, 10, 11 and 12 graders.
 
-AC7830Z Mixed Media *- Curriculum A   	Grades 10, 11, 12		          5 credits
+AC7832Z Mixed Media *- Curriculum A   	Grades 10, 11, 12		          5 credits
 This studio course is designed for students who want to explore a wide variety of media and techniques in the area of sculpture (3D) as well as projects that integrate 2D and 3D processes. Materials and techniques include handbuilding in clay, assemblage, wire, found object construction, installations, public art, fiber arts, environmental art, puppet making and other traditional and non-traditional methods of art making. Students are introduced to contemporary and historical artists and issues in visual art across cultures. Students work both independently and collaboratively to complete creative works ready for critique and exhibition.
 Suggested Entry Criteria: “Foundations in Studio Art”  or *permission of the instructor and this applies to 9, 10, 11 and 12 graders..
 
@@ -1852,7 +1865,7 @@ The course fulfills 2.5 credits toward the 5 credit Fine Arts Graduation Require
 Suggested Entry Criteria: Foundations in Studio Art  *or permission of the instructor.
 
 AC3601Z Sculpture* - Curriculum A                                          Grades  10, 11, 12   	                    2.5 credits
-This visual art course is for students who enjoy working three-dimensionally. Students learn how to use a variety of materials to create small and large-scale non-functional artworks that communicate ideas. Materials include clay, wood, wire, metals, found objects, and natural and recycled materials. Students work both independently and collaboratively, connect with other disciplines, and create sculptures to exhibit and critique. The course also touches on how artistic traditions from around the world have informed contemporary and historical sculpture and how these methods and themes can inspire personal work.
+This visual art course is for students who enjoy working three-dimensionally. Students learn how to use a variety of materials to create small and large-scale non-functional artworks that communicate ideas. Materials include clay, wood, wire, metals, found objects, and natural and recycled materials. Students work both independently and collaboratively, connect with other disciplines, and create sculptures to exhibit and critique. The course also covers how artistic traditions from around the world have informed contemporary and historical sculpture and how these methods and themes can inspire personal work.
 The course fulfills 2.5 credits toward the 5 credit Fine Arts Graduation Requirement.
 Suggested Entry Criteria: Foundations in Studio Art  *or permission of the instructor.
 
@@ -1879,16 +1892,21 @@ AC3590Z Digital Photography II                                   		Grades 11, 12
 This course allows students to further refine their skills in advanced digital imaging techniques to create well-composed images for commercial and Fine Art applications. Students are encouraged to use photography to express personal feelings and ideas. Students study major photographers, historical movements in art, and make interdisciplinary multimedia connections.  Students are introduced to digital film, video animation, and interdisciplinary “STEAM projects. Connections with the local cable company, ACMI are made to enhance student’s understanding of digital production and broadcasting. Career opportunities in commercial photography are explored. Students present their work in a portfolio and in an exhibition. Adobe Creative Cloud applications such as Photoshop and Lightroom are used as creative editing software. The course fulfills 5 credits toward the 5- credit Fine Arts Graduation Requirement.
 Suggested Entry Criteria: Digital Photography I or instructor’s permission.
 
+AC3610Z Art and Technology I Curriculum A 			Grades    10, 11, 12 		        2.5 credits
+This is a studio class that explores the intersection of contemporary art and technology. Students will be introduced to tools including microcontrollers, robotics, 3D printers, and the laser cutter to create original art that responds to issues relevant to modern culture and their personal experiences. Art and Tech I will focus on both contemporary and historical artists and art forms, tool training, developing skills, and making meaning through art making. Collaborative projects will be encouraged. Art and Technology I and II can be taken consecutively to fulfill the 5-credit Fine Arts Graduation Requirement.
+
+AC3611Z Art and Technology II Curriculum A 			Grades    10, 11, 12 		        2.5 credits
+This is a studio class that explores the intersection of contemporary art and technology. Students will be introduced to tools including microcontrollers, robotics, 3D printers, and the laser cutter to create original art that responds to issues relevant to modern culture and their personal experiences. Art and Tech II will also focus on both contemporary and historical artists and art forms, developing higher level skills, and making meaning through art making. Collaborative projects will be encouraged. Art and Tech II give students the opportunity to apply skills learned in Art and Technology I and to create personal artwork on a more independent basis. Art and Technology I and II can be taken consecutively to fulfill the 5-credit Fine Arts Graduation Requirement.  Prerequisite Art and Technology I
+
+AC3602Z Sculptural and Functional Woodworking - Curriculum A Grades 10, 11, 12 	          5 credits
+Sculptural and Functional Woodworking is a yearlong class that cultivates students’ skills related to designing and fabricating both functional and sculptural structures from wood. This class explores the relationship between functional and non-functional artworks through discussion and making. Students are introduced to relevant tools, skills, and projects that are presented in an open-ended way. This approach encourages creative problem solving and requires students to design and build one-of-a-kind objects. The projects are also presented in the context relevant to professional fields including carpentry, architecture, sculpture, and industrial design. This course fulfills the 5-credit Fine Arts Graduation Requirement. (Formerly called Wood Tech)
+
 World Languages
 
-The goal of ​the ​world languages ​program is to support students in developing proficiency in a language other than English and to understand the cultures where those languages are spoken, in order to become responsible global citizens. At Arlington High School, students may choose to study from among five* modern and classical world languages: French, Italian, Latin, Mandarin, and Spanish. Our curriculum is aligned with the Massachusetts Frameworks and the World-Readiness Standards for Learning Languages, with an emphasis on oral proficiency in modern languages and reading comprehension in Latin. All modern language courses are conducted almost exclusively in the target language, with little to no use of English, and students use increasing amounts of target language, starting in level 1.
+The goal of the ​ ​world languages ​program is to support students in developing proficiency in a language other than English and to understand the cultures where those languages are spoken, in order to become responsible global citizens. At Arlington High School, students may choose to study from among five* modern and classical world languages: French, Italian, Latin, Mandarin, and Spanish. Our curriculum is aligned with the Massachusetts Frameworks and the World-Readiness Standards for Learning Languages, with an emphasis on oral proficiency in modern languages and reading comprehension in Latin. All modern language courses are conducted almost exclusively in the target language, with little to no use of English, and students use increasing amounts of target language, starting in level 1.
 
-Students are required to complete two years of language study for graduation, however consecutive years of study of the same language is required by most colleges, with many requiring three to four years (deletion here). For this reason, students who choose to change their language after only one year of study may only do so with approval from the Principal. Students who enroll in AP courses are expected to take the AP exam in May.
+Students are required to complete two years of language study for graduation, however consecutive years of study of the same language is required by most colleges, with many requiring three to four years. For this reason, students who choose to change their language after only one year of study may only do so with approval from the Principal. Students who enroll in AP courses are expected to take the AP exam in May.
 *Level 1 language courses are offered based on enrollment.
-
-A typical sequence of courses for a student who completed the first level of language study in the middle school (7th and 8th grade) or for those students who are starting a new language in the high school or may need to repeat a year of study is as follows:
-
-
 
 *Level 1 language courses are offered based on enrollment.
 
@@ -1917,14 +1935,14 @@ Students taking the course for Honors credit participate in the Café Parisian c
 
 ML5114Z French 5: French Cinema – Curriculum A						          5 credits
 ML5115 French 5: French Cinema – Curriculum H						          5 credits
-This advanced course builds upon and expands students’ at the advanced level in the three modes of communication (interpretive, interpersonal and presentational) through the study French and Francophone cinema. Students watch and analyze films on different themes, review original novels and/or short stories on which the films were based, read film analyses, and develop and present their own opinions in written and oral presentations. The proficiency target for the end of this course is Intermediate High: students will be increasingly able to actively participate in conversations, narrate in past, present, and future with some control, and communicate in paragraphs with suitable accuracy and confidence.
+This advanced course builds upon and expands students’ at the advanced level in the three modes of communication (interpretive, interpersonal and presentational) through the study of French and Francophone cinema. Students watch and analyze films on different themes, review original novels and/or short stories on which the films were based, read film analyses, and develop and present their own opinions in written and oral presentations. The proficiency target for the end of this course is Intermediate High: students will be increasingly able to actively participate in conversations, narrate in past, present, and future with some control, and communicate in paragraphs with suitable accuracy and confidence.
 
 ML5005Z Advanced Placement French Language & Culture			   		          5 credits
 This college-level course builds upon and expands students’ proficiency at the advanced level in the three modes of communication (interpretive, interpersonal and presentational). Students read and critique novels, plays, articles, orations, and films, and address cultural perspectives through analysis and description of literature, historical documents, music, dance and theatre. The proficiency target for the end of this course is Intermediate High: students will be able to actively participate in conversations, narrate in past, present, and future with control, and communicate in paragraphs with suitable accuracy and confidence.
 Students selecting AP courses must take the corresponding College Board AP course in May in order to receive AP credit for the class.
 
 Italian
-Italian is an important heritage language for many Americans. Italy remains a world leader in many important fields, and its economy is one of the top five in the world. According to UNESCO, over 60% of the world’s treasures are found in Italy. Arlington High School offers the following courses in Italian.
+Italian is an important heritage language for many Americans. Italy remains a world leader in many important fields, and its economy is one of the top five in the world. According to UNESCO, over 60% of the world’s treasures are found in Italy. Arlington High School offers the following courses in Italian..
 
 ML1020Z Italian 1 – Introductory								          5 credits
 This is an introductory course designed for first-year students who begin the study of Italian in High School. This course aims to develop basic proficiency in the three modes of communication (interpretive, interpersonal and presentational) via the skills of listening to, speaking, reading, and writing of Italian, as well as to develop understanding of Italian culture. The proficiency target for the end of this course is Novice High: students will be able to participate in direct conversations with simple sentences and to satisfy some basic needs.
@@ -2124,10 +2142,10 @@ The reason for choosing this course (students served, enhancement of our offerin
 A proposed timeline
 A statement of resources needed (budget, equipment, facilities, time, schedule)
 
-IN5001Z Academic Internship	Grade 12	        2.5 credits
-Academic Internships allow seniors to pursue an area of interest in a community-based work situation. Participation in the program will require an application and placement in an appropriate work situation as deemed by Arlington High School and the internship Coordinator.  Through this program, eligible seniors will be released for the last period of the day for one semester to participate in a 5-hour per week internship off-site. Students will present a completed project at a public showcase at the end of the semester. Students will receive a grade and 2.5 credits, at honors weight upon, successful completion of the program.
+IN5001Z Academic Internship	Grade 11, 12	        2.5 credits
+Academic Internships allow seniors and juniors to pursue an area of interest in a community-based work situation. Participation in the program will require an application and placement in an appropriate work situation as deemed by Arlington High School and the internship Coordinator.  Through this program, eligible seniors and juniors will be released for the last period of the day for one semester to participate in a 5-hour per week internship off-site. Students will present a completed project at a public showcase at the end of the semester. Students will receive a grade and 2.5 credits, at honors weight upon, successful completion of the program.
 
-Further information, including a listing of approved internship placement sites and the application will be available during course selection.  Contact Melanie Konstandakis (mkonstandakis@arlington.k12.ma.us) with questions. We welcome recommendations of possible internship sites.
+Further information, including a listing of approved internship placement sites and the application will be available during course selection.  Contact Nicole Eidson (neidson@arlington.k12.ma.us) with questions. We welcome recommendations of possible internship sites.
 
 IS0000Z Independent Study 	Grades 11, 12	        No credits
 Independent Study allows students to manage their study time when it occurs in first or last period of the day at home or in the school cafeteria or media center.  Students on Independent Study are monitored by the AHS Dean's who will assign them to Directed Study if their grades fall below a passing level or if a parent or teacher requests such a transfer.
@@ -2237,24 +2255,19 @@ Language Arts II
 Language Arts III
 Language Arts IV
 Contemporary Literature
-British Literature
 American Literature
 
 History
-Mod. World History B
 US History  I  B
 US History  II B
 
 Math
 Algebra I
-Algebraic Concepts
 Geometry
-Consumer Math
 
 Science
-Concepts in Physical Science
 Concepts in Biology
-Concepts in Chemistry B
+Applied and Qualitative Chemistry
 
 ***The structure of all specialized programs and support services are currently being reorganized and revamped to better meet the individual needs of all students on Individual Education Plans. Course descriptions will be disseminated once they have been revised.
 
@@ -2338,6 +2351,47 @@ Routinely evaluate Websites for authenticity when using them (3.14)
 Explain effective search strategies to locate and retrieve electronic information, e.g. understand and use syntax and Boolean logic operators (1.54)
 Identify capabilities of technology resources and understand how they can be used for lifelong learning (1.59)
 Know how to select and use search engines.  Understand the differences between search engines (1.53)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ARLINGTON PUBLIC SCHOOLS—NOTICE OF NONDISCRIMINATION
 The Arlington Public Schools does not discriminate on the basis of race, color, sex, religion, national origin, age, gender, sexual orientation, marital status, disability, or homelessness in admission to, access to, employment in, or treatment in its programs and activities.

@@ -69,7 +69,7 @@ public class Parser {
                 data = data.trim();
                 if(data.contains("Z ")) { // looks for the "Z" in the end of the course code to find if the line contains a course codes or not
                     ClassInfo pr = parseLine(data);
-                    classes.add(pr);
+                    classes.add(pr); // @TODO merge duplicate class listings on the output and move setting defaults to after merging
                     lastLineHasCode = true;
                 }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it doesn't have a course code in it
                     addDescription(classes, data);

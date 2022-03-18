@@ -115,6 +115,9 @@ public class Parser {
 
         ClassInfo rt = new ClassInfo();
 
+        while(line.indexOf("\t") != -1){ // removing tab characters
+            line = line.substring(0, line.indexOf("\t")) + " " + line.substring(line.indexOf("\t")+2);
+        }
         line = line.trim();// Remove spaces on each end
         String editedLine = line; //copy of line that is edited
 
@@ -141,7 +144,7 @@ public class Parser {
         if(line.contains("credits")){
             rt.setClassCredits(findCredits(line));
 
-            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getCredit())) + editedLine.substring(editedLine.indexOf(rt.getCredit())+rt.getCredit().length());
+            editedLine = editedLine.substring(0, editedLine.indexOf(rt.getCredit())) + editedLine.substring(editedLine.indexOf(rt.getCredit())+rt.getCredit().length()+8);
             if(editedLine.contains("()")){
                 editedLine = editedLine.substring(0,editedLine.indexOf("(")) + editedLine.substring(editedLine.indexOf(")") +1);
             }
@@ -179,7 +182,7 @@ public class Parser {
     private String findCredits(String line){
         int index = line.indexOf("credits");
         int startIndex = line.substring(0, index-2).lastIndexOf(" ");
-        String txt = line.substring(startIndex + 1, index + 7);
+        String txt = line.substring(startIndex + 1, index);
         txt = txt.trim();
 
         if(txt.contains("(")){ // sometimes parentheses would be counted to

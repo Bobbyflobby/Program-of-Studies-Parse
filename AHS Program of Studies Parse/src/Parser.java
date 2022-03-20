@@ -1,7 +1,7 @@
 /*
 Walter Vincent
 copy and paste Program of Studies into Input.txt
-only works if course codes end in a "Z"
+only works if the course codes end in a "Z"
 Started Dec 2021
  */
 
@@ -12,7 +12,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Parser {
@@ -71,7 +70,6 @@ public class Parser {
                 if(data.contains("Z ")) { // looks for the "Z" in the end of the course code to find if the line contains a course codes or not
                     ClassInfo pr = parseLine(data);
                     mergeData(classes, pr);
-                    //classes.add(pr); // @TODO merge duplicate class listings on the output and move setting defaults to after merging
                     lastLineHasCode = true;
                 }else if(lastLineHasCode && !data.equals("")){ // checks if the line is part of a description if it doesn't have a course code in it
                     addDescription(classes, data);
@@ -115,9 +113,10 @@ public class Parser {
 
         ClassInfo rt = new ClassInfo();
 
-        while(line.indexOf("\t") != -1){ // removing tab characters
-            line = line.substring(0, line.indexOf("\t")) + " " + line.substring(line.indexOf("\t")+2);
-        }
+         while(line.contains("\t")){ // removing tab characters
+            line = line.substring(0, line.indexOf("\t")) + " " + line.substring(line.indexOf("\t")+1);
+         }
+
         line = line.trim();// Remove spaces on each end
         String editedLine = line; //copy of line that is edited
 
@@ -234,13 +233,12 @@ public class Parser {
                 if(clas.getCredit() == null) clas.setClassCredits(classAdding.getCredit());
                 if(clas.getLevel() == null) clas.setClassLevel(classAdding.getLevel());
                 if(clas.getDescription() == null) clas.setClassDescription(classAdding.getDescription());
-                //not passing type because it comes from the code
+                //not passing class type because it comes from the class code
 
                 return;
             }
         }
         classList.add(classAdding);
-        return;
     }
 
     // prints string if debug mode is on

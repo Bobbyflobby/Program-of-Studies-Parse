@@ -752,7 +752,7 @@ CS2315Z  Bake Shop 101 (1 Semester)
 CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
 CS1923Z  Creative Textile Design
-CS2306  Adulting with Technology
+CS2306Z  Adulting with Technology
 Grades
 11, 12
 CS4241Z Early Childhood Education Practicum
@@ -762,7 +762,7 @@ CS4241Z Early Childhood Education Practicum
 
 CS2241Z  Early Childhood Education I
 CS3243Z  Early Childhood Education II
-CS2242ZChild Development and Parenting
+CS2242Z Child Development and Parenting
 CS1920Z  Interior and Fashion Design I
 CS2920Z  Interior and Fashion Design II
 CS1923Z Creative Textile Design
@@ -773,7 +773,7 @@ CS2315Z  Bake Shop 101 (1 Semester)
 TE3930Z  Introduction to Wood Technology
 CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
-CS2306  Adulting with Technology
+CS2306Z  Adulting with Technology
 CS2307Z Adulting with Technology II
 Grade 12
 CS4241Z Early Childhood Education Practicum
@@ -787,7 +787,7 @@ IN7750Z Early Childhood Education Practicum/Internship (5 credits)
 IN7751Z Early Childhood Practicum/Internship DB (10 credits)
 CS2241Z  Early Childhood Education I
 CS3243Z  Early Childhood Education II
-CS2242ZChild Development and Parenting
+CS2242Z Child Development and Parenting
 CS1920Z  Interior and Fashion Design I
 CS2920Z  Interior and Fashion Design II
 CS1923Z Creative Textile Design
@@ -797,7 +797,7 @@ CS2318Z  Cooking On Your Own
 CS2317Z  Morning Eats: Breakfast and Brunch
 CS3405Z  Culinary Arts and Hospitality III
 CS2315Z  Bake Shop 101 (1 Semester)
-CS2306  Adulting with Technology
+CS2306Z  Adulting with Technology
 CS2307Z Adulting with Technology II
 
 
@@ -1934,7 +1934,7 @@ This advanced intermediate course builds upon and expands students’ proficienc
 Students taking the course for Honors credit participate in the Café Parisian competition, in which they develop a business plan for their own Café in a section of Paris.
 
 ML5114Z French 5: French Cinema – Curriculum A						          5 credits
-ML5115 French 5: French Cinema – Curriculum H						          5 credits
+ML5115Z French 5: French Cinema – Curriculum H						          5 credits
 This advanced course builds upon and expands students’ at the advanced level in the three modes of communication (interpretive, interpersonal and presentational) through the study of French and Francophone cinema. Students watch and analyze films on different themes, review original novels and/or short stories on which the films were based, read film analyses, and develop and present their own opinions in written and oral presentations. The proficiency target for the end of this course is Intermediate High: students will be increasingly able to actively participate in conversations, narrate in past, present, and future with some control, and communicate in paragraphs with suitable accuracy and confidence.
 
 ML5005Z Advanced Placement French Language & Culture			   		          5 credits

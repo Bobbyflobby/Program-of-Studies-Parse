@@ -1,12 +1,25 @@
 import java.util.ArrayList;
 
-public class config {
+public class Config {
     boolean debug;
     ArrayList<String[]> courseKeys;
 
-    public config(){
+    public Config(){
         debug = false;
         courseKeys = new ArrayList<>();
+        String[] tmp = {"i","i"};
+        courseKeys.add(tmp);
+    }
+
+    public String toString(){
+        String rt = "Debug mode: " + debug + " ";
+
+        rt += "Course Keys: ";
+        for(String[] list:courseKeys){
+            rt += "[" + list[0] + "," + list[1] + "] ";
+        }
+
+        return  rt;
     }
 
     public boolean getDebug(){return debug;}

@@ -22,30 +22,20 @@ public class Parser {
     Boolean debugOn;
     Map<String, String> courseKeys = new HashMap<>();
     ArrayList<ClassInfo> classes = new ArrayList<>();
+    Config config;
+    ConfigManager configManager;
 
     public Parser(){
         input = new File(inputLocation);
-        debugOn = false; // extra outputs if true
 
-        // setting course keys (take from file?)
-        courseKeys.put("EN", "English");
-        courseKeys.put("SC", "Science");
-        courseKeys.put("PE", "Physical Education");
-        courseKeys.put("CS", "Life Skills");
-        courseKeys.put("IN", "Internship");
-        courseKeys.put("AC", "Art");
-        courseKeys.put("SS", "Social Studies");
-        courseKeys.put("MA", "Math");
-        courseKeys.put("PA", "Music");
-        courseKeys.put("ML", "Foreign Language");
-        courseKeys.put("OL", "Foreign Language");
-        courseKeys.put("CL", "Latin");
-        courseKeys.put("FR", "Freshman Seminar");
-        courseKeys.put("IS", "Independent Study");
-        courseKeys.put("AP", "AP");
-        courseKeys.put("SP", "Special");
-        courseKeys.put("CD", "Technology Intern");
-        courseKeys.put("TW", "Workplace Course");
+        configManager = new ConfigManager();
+        config = configManager.loadConfig();
+        debugOn = config.getDebug();
+
+        for(String[] keyPair : config.getCourseKeys()){
+            courseKeys.put(keyPair[0],keyPair[1]);
+        }
+
 
         try {
             output = new File(outputLocation);

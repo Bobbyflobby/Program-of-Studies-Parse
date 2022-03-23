@@ -5,30 +5,38 @@ import java.io.*;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+
 public class ConfigManager {
     String configPath = "src/config.json";
+    Config config;
 
     public ConfigManager(){
-        loadConfig();
     }
 
     public ConfigManager(String configPath){
         this.configPath = configPath;
     }
 
-    public void loadConfig(){
+    public Config loadConfig(){
 
         try {
             // create object mapper instance
             ObjectMapper mapper = new ObjectMapper();
 
             // convert JSON file to map
-            Config config = mapper.readValue(Paths.get(configPath).toFile(), Config.class);
+            config = mapper.readValue(Paths.get(configPath).toFile(), Config.class);
 
-            System.out.println(config.toString());
+            if(config.getDebug()) {
+                System.out.println("Loaded Config...");
+            }
+            return config;
+            //System.out.println(config.toString());
 
         } catch (Exception ex) {
+            System.out.println("Error loading config");
             ex.printStackTrace();
+            return null;
         }
 
 
@@ -54,4 +62,6 @@ public class ConfigManager {
             e.printStackTrace();
         }
     }
+
+    public Config getConfig() {return config;}
 }

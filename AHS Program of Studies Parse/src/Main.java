@@ -10,10 +10,6 @@ using com.fasterxml.jackson.core:jackson-core:2.7.5 and com.fasterxml.jackson.co
 public class Main {
 
     public static void main(String[] args) {
-        //ConfigManager configManager = new ConfigManager();
-        //configManager.loadConfig();
-
-
         Parser parser = new Parser();
         parser.run();
 

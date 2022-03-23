@@ -1,6 +1,6 @@
 /*
 Walter Vincent
-copy and paste Program of Studies into Input.txt
+copy and paste Program of Studies into input.txt
 only works if course codes end in a "Z"
 Started Dec 2021
 

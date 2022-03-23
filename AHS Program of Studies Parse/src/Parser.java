@@ -1,6 +1,6 @@
 /*
 Walter Vincent
-copy and paste Program of Studies into Input.txt
+copy and paste Program of Studies into input.txt
 only works if the course codes end in a "Z"
 Started Dec 2021
  */
@@ -16,9 +16,9 @@ import java.util.*;
 
 public class Parser {
     File input;
-    final String inputLocation = "src/Input.txt";
+    final String inputLocation;
     File output;
-    final String outputLocation = "src/output.json";
+    final String outputLocation;
     Boolean debugOn;
     Map<String, String> courseKeys = new HashMap<>();
     ArrayList<ClassInfo> classes = new ArrayList<>();
@@ -26,11 +26,14 @@ public class Parser {
     ConfigManager configManager;
 
     public Parser(){
-        input = new File(inputLocation);
 
         configManager = new ConfigManager();
         config = configManager.loadConfig();
         debugOn = config.getDebug();
+        inputLocation = config.getInputFileLocation();
+        outputLocation = config.getOutputFileLocation();
+
+        input = new File(inputLocation);
 
         for(String[] keyPair : config.getCourseKeys()){
             courseKeys.put(keyPair[0],keyPair[1]);

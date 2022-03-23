@@ -3,12 +3,12 @@ import java.util.ArrayList;
 public class Config {
     boolean debug;
     ArrayList<String[]> courseKeys;
+    String inputFileLocation;
+    String outputFileLocation;
 
     public Config(){
         debug = false;
         courseKeys = new ArrayList<>();
-        String[] tmp = {"i","i"};
-        courseKeys.add(tmp);
     }
 
     public String toString(){
@@ -24,7 +24,11 @@ public class Config {
 
     public boolean getDebug(){return debug;}
     public ArrayList<String[]> getCourseKeys(){return courseKeys;}
+    public String getInputFileLocation(){return inputFileLocation;}
+    public String getOutputFileLocation(){return outputFileLocation;}
 
     public void setDebug(boolean debug){this.debug = debug;}
     public void setCourseKeys(ArrayList<String[]> courseKeys){this.courseKeys = courseKeys;}
+    public void setInputFileLocation(String inputFileLocation){this.inputFileLocation = inputFileLocation;}
+    public void setOutputFileLocation(String outputFileLocation){this.outputFileLocation = outputFileLocation;}
 }

@@ -167,6 +167,8 @@ public class Parser {
         }
         String grades = txt.substring(startGradeNumIndex, endIndex); // make this smarter
 
+        if(grades.indexOf(")") == grades.length()-1) grades = grades.substring(0, grades.length()-1);
+
         grades = grades.trim();
         return grades;
     }

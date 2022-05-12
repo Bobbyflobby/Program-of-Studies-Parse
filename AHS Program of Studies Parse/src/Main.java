@@ -16,3 +16,5 @@ public class Main {
 
     }
 }
+
+//original keys "courseKeys" : [["EN", "English"], ["SC", "Science"],["PE", "Physical Education"], ["CS", "Life Skills"], ["IN", "Internship"], ["AC", "Art"], ["SS", "Social Studies"], ["MA", "Math"], ["PA", "Music"], ["ML", "Foreign Language"], ["IS", "Independent Study"], ["AP", "AP"], ["SP", "Special"], ["CD", "Technology Intern"], ["OL", "Foreign Language"], ["CL", "Latin"], ["FR", "Freshman Seminar"], ["TW", "Workplace Course"], ["EL","English Language Learners"]],

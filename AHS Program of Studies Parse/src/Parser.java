@@ -13,6 +13,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Parser {
     File input;
@@ -25,6 +26,8 @@ public class Parser {
     Config config;
     ConfigManager configManager;
 
+    static final String toBeRemoved = "REMOVE";
+
     public Parser(){
 
         configManager = new ConfigManager();
@@ -34,6 +37,8 @@ public class Parser {
         outputLocation = config.getOutputFileLocation();
 
         input = new File(inputLocation);
+
+        System.out.println(config);
 
         for(String[] keyPair : config.getCourseKeys()){
             courseKeys.put(keyPair[0],keyPair[1]);
@@ -79,6 +84,9 @@ public class Parser {
             }
         }
 
+        removeExcludedClasses(classes);
+
+
         // creates json
         // used https://www.tutorialspoint.com/jackson/jackson_first_application.htm
         ObjectMapper mapper = new ObjectMapper();
@@ -99,6 +107,19 @@ public class Parser {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+    }
+
+    private void removeExcludedClasses(ArrayList<ClassInfo> classes){
+
+        int removed = 0;
+        for(int i = classes.size()-1; i >= 0; i--){
+                if (classes.get(i).getType().equals(toBeRemoved)) {
+                    classes.remove(i);
+                    removed++;
+                }
+        }
+
+        System.out.println("Removed " + removed);
     }
 
     //takes line as input and returns [course code, grades, credits, name, course category] (need to and levels)
@@ -147,7 +168,15 @@ public class Parser {
         editedLine = editedLine.trim();
         rt.setClassName(editedLine); // uses anything left after taking out the course code, grades, and credits as the course title
 
-        rt.setClassCategory(courseKeys.get(courseCode.substring(0,2)));// add subject to end of list (gets from course keys map)
+        if(config.getExcludedCourseKeys().contains(courseCode.substring(0,2))) {
+            rt.setClassCategory(toBeRemoved);
+        }else{
+            rt.setClassCategory(courseKeys.get(courseCode.substring(0, 2)));// add subject to end of list (gets from course keys map)
+        }
+
+        if(rt.getType()==null){
+            rt.setClassCategory("ERROR");
+        }
 
         rt.setClassLevel(findLevel(rt.getName())); // finds class level
 

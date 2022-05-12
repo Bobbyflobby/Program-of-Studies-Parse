@@ -6,6 +6,7 @@ public class ClassInfo {
     String Credit;
     String Level;
     String Description;
+    String Length;
 
     public ClassInfo(){
         ID = null;
@@ -15,6 +16,7 @@ public class ClassInfo {
         Type = null;
         Level = null;
         Description = null;
+        Length = "1"; //@TODO make length be based on class
     }
 
     // not using all set/get methods but added them to make stuff easier in the future
@@ -25,6 +27,7 @@ public class ClassInfo {
     public void setClassCategory(String category){Type = category;}
     public void setClassLevel(String level){Level = level;}
     public void setClassDescription(String description){Description = description;}
+    public void setClassLength(String length){Length = length;}
 
 
     public String getID(){return ID;}
@@ -34,4 +37,5 @@ public class ClassInfo {
     public String getType(){return Type;}
     public String getLevel(){return Level;}
     public String getDescription(){return Description;}
+    public String getLength(){return Length;}
 }

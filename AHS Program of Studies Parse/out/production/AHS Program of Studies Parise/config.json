@@ -1,6 +1,7 @@
 {
   "debug" : false,
-  "courseKeys" : [["EN", "English"], ["SC", "Science"],["PE", "Physical Education"], ["CS", "Life Skills"], ["IN", "Internship"], ["AC", "Art"], ["SS", "Social Studies"], ["MA", "Math"], ["PA", "Music"], ["ML", "Foreign Language"], ["IS", "Independent Study"], ["AP", "AP"], ["SP", "Special"], ["CD", "Technology Intern"], ["OL", "Foreign Language"], ["CL", "Latin"], ["FR", "Freshman Seminar"], ["TW", "Workplace Course"], ["EL","English Language Learners"]],
+  "courseKeys" : [["EN", "English"], ["SC", "Science"],["PE", "Elective"], ["CS", "Elective"], ["IN", "Elective"], ["AC", "Elective"], ["SS", "History"], ["MA", "Math"], ["PA", "Elective"], ["ML", "Language"], ["IS", "Elective"], ["AP", "Elective"], ["SP", "Elective"], ["CD", "Elective"], ["OL", "Language"], ["CL", "Language"], ["FR", "Elective"], ["TW", "Elective"], ["EL","Elective"], ["TE", "Elective"]],
+  "excludedCourseKeys" : ["EL"],
   "inputFileLocation" : "src/input.txt",
   "outputFileLocation": "src/output.json"
 }
